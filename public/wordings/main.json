@@ -1,0 +1,291 @@
+{
+  "en": {
+    "header": {
+      "links": [
+        { "to": "/?to=meta", "title": "META" },
+        { "to": "/?to=team", "title": "TEAM" },
+        { "to": "/?to=mint", "title": "MINT" },
+        { "to": "/?to=community", "title": "COMMUNITY" }
+      ]
+    },
+    "homepage": {
+      "side": "Company + Community + Blockchain + Metaverse",
+      "heading": {
+        "social": [
+          { "icon": "Opensea", "link": "https://twitter.com/" },
+          { "icon": "Discord", "link": "https://discord.gg/vNDdUqpzbF" },
+          { "icon": "Twitter", "link": "https://twitter.com/" },
+          { "icon": "Facebook", "link": "https://twitter.com/" }
+        ]
+      },
+      "intro":  [
+        {
+          "icon": "/images/icon-crawl.svg",
+          "content": "Let the infinite imagination of the metaverse become the new future!\nNew Future. New MetaLion.\n\n\"Integrate enterprise and product NFT, and jointly create a new consumption cycle ecosystem in the future.\""
+        },
+        {
+          "icon": "/images/icon-crawl.svg",
+          "content": "Let the infinite imagination of the metaverse become the new future!\nNew Future. New MetaLion.\n\n\"Integrate enterprise and product NFT, and jointly create a new consumption cycle ecosystem in the future.\""
+        },
+        {
+          "icon": "/images/icon-crawl.svg",
+          "content": "Let the infinite imagination of the metaverse become the new future!\nNew Future. New MetaLion.\n\n\"Integrate enterprise and product NFT, and jointly create a new consumption cycle ecosystem in the future.\""
+        }
+      ],
+      "story": [
+        {
+          "photo": "/images/story-1.png",
+          "content": "Demo：Integrate enterprise and product NFT, and jointly create a new \nconsumption cycle ecosystem in the future."
+        },
+        {
+          "photo": "http://placehold.jp/500x200?text=2",
+          "content": "Demo2：Integrate enterprise and product NFT, and jointly create a new \nconsumption cycle ecosystem in the future."
+        },
+        {
+          "photo": "http://placehold.jp/500x200?text=3",
+          "content": "Demo3：Integrate enterprise and product NFT, and jointly create a new \nconsumption cycle ecosystem in the future."
+        },
+        {
+          "photo": "http://placehold.jp/500x200?text=4",
+          "content": "Demo4：Integrate enterprise and product NFT, and jointly create a new \nconsumption cycle ecosystem in the future."
+        },
+        {
+          "photo": "http://placehold.jp/500x200?text=5",
+          "content": "Demo5：Integrate enterprise and product NFT, and jointly create a new \nconsumption cycle ecosystem in the future."
+        },
+        {
+          "photo": "http://placehold.jp/500x200?text=6",
+          "content": "Demo6：Integrate enterprise and product NFT, and jointly create a new \nconsumption cycle ecosystem in the future."
+        }
+      ],
+      "team": [
+        {
+          "name": "Simon Koh",
+          "title": "Co-founder",
+          "image": "/images/team-simon_koh.png",
+          "cover": "/images/team-simon_koh-cover.png",
+          "content": "・Corporate PR Crisis Handling and Marketing Strategy Chief Adviser\n・Senior media person in Taiwan\n・Media and Film Industry Transformation Strategic Investment Consultant"
+        },
+        {
+          "name": "Simon Koh",
+          "title": "Co-founder",
+          "image": "/images/team-simon_koh.png",
+          "cover": "/images/team-simon_koh-cover.png",
+          "content": "・Corporate PR Crisis Handling and Marketing Strategy Chief Adviser\n・Senior media person in Taiwan\n・Media and Film Industry Transformation Strategic Investment Consultant"
+        },
+        {
+          "name": "Simon Koh",
+          "title": "Co-founder",
+          "image": "/images/team-simon_koh.png",
+          "cover": "/images/team-simon_koh-cover.png",
+          "content": "・Corporate PR Crisis Handling and Marketing Strategy Chief Adviser\n・Senior media person in Taiwan\n・Media and Film Industry Transformation Strategic Investment Consultant"
+        },
+        {
+          "name": "Simon Koh",
+          "title": "Co-founder",
+          "image": "/images/team-simon_koh.png",
+          "cover": "/images/team-simon_koh-cover.png",
+          "content": "・Corporate PR Crisis Handling and Marketing Strategy Chief Adviser\n・Senior media person in Taiwan\n・Media and Film Industry Transformation Strategic Investment Consultant"
+        },
+        {
+          "name": "Simon Koh",
+          "title": "Co-founder",
+          "image": "/images/team-simon_koh.png",
+          "cover": "/images/team-simon_koh-cover.png",
+          "content": "・Corporate PR Crisis Handling and Marketing Strategy Chief Adviser\n・Senior media person in Taiwan\n・Media and Film Industry Transformation Strategic Investment Consultant"
+        },
+        {
+          "name": "Simon Koh",
+          "title": "Co-founder",
+          "image": "/images/team-simon_koh.png",
+          "cover": "/images/team-simon_koh-cover.png",
+          "content": "・Corporate PR Crisis Handling and Marketing Strategy Chief Adviser\n・Senior media person in Taiwan\n・Media and Film Industry Transformation Strategic Investment Consultant"
+        },
+        {
+          "name": "Simon Koh",
+          "title": "Co-founder",
+          "image": "/images/team-simon_koh.png",
+          "cover": "/images/team-simon_koh-cover.png",
+          "content": "・Corporate PR Crisis Handling and Marketing Strategy Chief Adviser\n・Senior media person in Taiwan\n・Media and Film Industry Transformation Strategic Investment Consultant"
+        },
+        {
+          "name": "Simon Koh",
+          "title": "Co-founder",
+          "image": "/images/team-simon_koh.png",
+          "cover": "/images/team-simon_koh-cover.png",
+          "content": "・Corporate PR Crisis Handling and Marketing Strategy Chief Adviser\n・Senior media person in Taiwan\n・Media and Film Industry Transformation Strategic Investment Consultant"
+        },
+        {
+          "name": "Simon Koh",
+          "title": "Co-founder",
+          "image": "/images/team-simon_koh.png",
+          "cover": "/images/team-simon_koh-cover.png",
+          "content": "・Corporate PR Crisis Handling and Marketing Strategy Chief Adviser\n・Senior media person in Taiwan\n・Media and Film Industry Transformation Strategic Investment Consultant"
+        }
+      ],
+      "banner": "\"Integrate enterprise and product NFT, and jointly create a new consumption cycle ecosystem in the future.\"",
+      "mint": {
+        "title": "mint liondao nft",
+        "description": "Demo：Integrate enterprise and product NFT, and jointly create a new consumption cycle ecosystem in the future.",
+        "price": "0.8",
+        "photo": "/images/mint.png",
+        "hint": "Demo：Integrate enterprise and product NFT"
+      },
+      "social": [
+        { "icon": "Opensea", "link": "https://twitter.com/" },
+        { "icon": "Discord", "link": "https://discord.gg/vNDdUqpzbF" },
+        { "icon": "Twitter", "link": "https://twitter.com/" },
+        { "icon": "Facebook", "link": "https://twitter.com/" }
+      ],
+      "mint_button": "MINT LIONDAO NFT"
+    },
+    "footer": {
+      "copyright": "・2022  LIONDAO・"
+    }
+  },
+  "zh-TW": {
+    "header": {
+      "links": [
+        { "to": "/?to=meta", "title": "META" },
+        { "to": "/?to=team", "title": "團隊" },
+        { "to": "/?to=mint", "title": "MINT" },
+        { "to": "/?to=community", "title": "COMMUNITY" }
+      ]
+    },
+    "homepage": {
+      "side": "Company + Community + Blockchain + Metaverse",
+      "heading": {
+        "social": [
+          { "icon": "Opensea", "link": "https://twitter.com/" },
+          { "icon": "Discord", "link": "https://discord.gg/vNDdUqpzbF" },
+          { "icon": "Twitter", "link": "https://twitter.com/" },
+          { "icon": "Facebook", "link": "https://twitter.com/" }
+        ]
+      },
+      "intro":  [
+        {
+          "icon": "/images/icon-crawl.svg",
+          "content": "Let the infinite imagination of the metaverse become the new future!\nNew Future. New MetaLion.\n\n\"Integrate enterprise and product NFT, and jointly create a new consumption cycle ecosystem in the future.\""
+        },
+        {
+          "icon": "/images/icon-crawl.svg",
+          "content": "Let the infinite imagination of the metaverse become the new future!\nNew Future. New MetaLion.\n\n\"Integrate enterprise and product NFT, and jointly create a new consumption cycle ecosystem in the future.\""
+        },
+        {
+          "icon": "/images/icon-crawl.svg",
+          "content": "Let the infinite imagination of the metaverse become the new future!\nNew Future. New MetaLion.\n\n\"Integrate enterprise and product NFT, and jointly create a new consumption cycle ecosystem in the future.\""
+        }
+      ],
+      "story": [
+        {
+          "photo": "/images/story-1.png",
+          "content": "Demo：Integrate enterprise and product NFT, and jointly create a new \nconsumption cycle ecosystem in the future."
+        },
+        {
+          "photo": "/images/story-1.png",
+          "content": "Demo：Integrate enterprise and product NFT, and jointly create a new \nconsumption cycle ecosystem in the future."
+        },
+        {
+          "photo": "/images/story-1.png",
+          "content": "Demo：Integrate enterprise and product NFT, and jointly create a new \nconsumption cycle ecosystem in the future."
+        },
+        {
+          "photo": "/images/story-1.png",
+          "content": "Demo：Integrate enterprise and product NFT, and jointly create a new \nconsumption cycle ecosystem in the future."
+        },
+        {
+          "photo": "/images/story-1.png",
+          "content": "Demo：Integrate enterprise and product NFT, and jointly create a new \nconsumption cycle ecosystem in the future."
+        },
+        {
+          "photo": "/images/story-1.png",
+          "content": "Demo：Integrate enterprise and product NFT, and jointly create a new \nconsumption cycle ecosystem in the future."
+        }
+      ],
+      "team": [
+        {
+          "name": "Simon Koh",
+          "title": "Co-founder",
+          "image": "/images/team-simon_koh.png",
+          "cover": "/images/team-simon_koh-cover.png",
+          "content": "・Corporate PR Crisis Handling and Marketing Strategy Chief Adviser\n・Senior media person in Taiwan\n・Media and Film Industry Transformation Strategic Investment Consultant"
+        },
+        {
+          "name": "Simon Koh",
+          "title": "Co-founder",
+          "image": "/images/team-simon_koh.png",
+          "cover": "/images/team-simon_koh-cover.png",
+          "content": "・Corporate PR Crisis Handling and Marketing Strategy Chief Adviser\n・Senior media person in Taiwan\n・Media and Film Industry Transformation Strategic Investment Consultant"
+        },
+        {
+          "name": "Simon Koh",
+          "title": "Co-founder",
+          "image": "/images/team-simon_koh.png",
+          "cover": "/images/team-simon_koh-cover.png",
+          "content": "・Corporate PR Crisis Handling and Marketing Strategy Chief Adviser\n・Senior media person in Taiwan\n・Media and Film Industry Transformation Strategic Investment Consultant"
+        },
+        {
+          "name": "Simon Koh",
+          "title": "Co-founder",
+          "image": "/images/team-simon_koh.png",
+          "cover": "/images/team-simon_koh-cover.png",
+          "content": "・Corporate PR Crisis Handling and Marketing Strategy Chief Adviser\n・Senior media person in Taiwan\n・Media and Film Industry Transformation Strategic Investment Consultant"
+        },
+        {
+          "name": "Simon Koh",
+          "title": "Co-founder",
+          "image": "/images/team-simon_koh.png",
+          "cover": "/images/team-simon_koh-cover.png",
+          "content": "・Corporate PR Crisis Handling and Marketing Strategy Chief Adviser\n・Senior media person in Taiwan\n・Media and Film Industry Transformation Strategic Investment Consultant"
+        },
+        {
+          "name": "Simon Koh",
+          "title": "Co-founder",
+          "image": "/images/team-simon_koh.png",
+          "cover": "/images/team-simon_koh-cover.png",
+          "content": "・Corporate PR Crisis Handling and Marketing Strategy Chief Adviser\n・Senior media person in Taiwan\n・Media and Film Industry Transformation Strategic Investment Consultant"
+        },
+        {
+          "name": "Simon Koh",
+          "title": "Co-founder",
+          "image": "/images/team-simon_koh.png",
+          "cover": "/images/team-simon_koh-cover.png",
+          "content": "・Corporate PR Crisis Handling and Marketing Strategy Chief Adviser\n・Senior media person in Taiwan\n・Media and Film Industry Transformation Strategic Investment Consultant"
+        },
+        {
+          "name": "Simon Koh",
+          "title": "Co-founder",
+          "image": "/images/team-simon_koh.png",
+          "cover": "/images/team-simon_koh-cover.png",
+          "content": "・Corporate PR Crisis Handling and Marketing Strategy Chief Adviser\n・Senior media person in Taiwan\n・Media and Film Industry Transformation Strategic Investment Consultant"
+        },
+        {
+          "name": "Simon Koh",
+          "title": "Co-founder",
+          "image": "/images/team-simon_koh.png",
+          "cover": "/images/team-simon_koh-cover.png",
+          "content": "・Corporate PR Crisis Handling and Marketing Strategy Chief Adviser\n・Senior media person in Taiwan\n・Media and Film Industry Transformation Strategic Investment Consultant"
+        }
+      ],
+      "banner": "\"Integrate enterprise and product NFT, and jointly create a new consumption cycle ecosystem in the future.\"",
+      "mint": {
+        "title": "mint liondao nft",
+        "description": "Demo：Integrate enterprise and product NFT, and jointly create a new consumption cycle ecosystem in the future.",
+        "price": "0.8",
+        "photo": "/images/mint.png",
+        "hint": "Demo：Integrate enterprise and product NFT"
+      },
+      "social": [
+        { "icon": "Opensea", "link": "https://twitter.com/" },
+        { "icon": "Discord", "link": "https://discord.gg/vNDdUqpzbF" },
+        { "icon": "Twitter", "link": "https://twitter.com/" },
+        { "icon": "Facebook", "link": "https://twitter.com/" }
+      ],
+      "mint_button": "MINT LIONDAO NFT"
+    },
+    "footer": {
+      "copyright": "・2022  LIONDAO・"
+    }
+  }
+  
+}
