@@ -2,7 +2,7 @@
   "en": {
     "header": {
       "links": [
-        { "to": "/?to=meta", "title": "META" },
+        { "to": "/?to=meta", "title": "Make" },
         { "to": "/?to=team", "title": "TEAM" },
         { "to": "/?to=mint", "title": "MINT" },
         { "to": "/?to=community", "title": "COMMUNITY" }
