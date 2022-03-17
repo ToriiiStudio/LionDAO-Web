@@ -9,7 +9,7 @@ const colors = {
   white: "#FFFFFF",
   gray: "#EFEFEF",
   darkGray: "#D0D0D0",
-  highlight: "#3f3d38"
+  highlight: "#FFA243"
 }
 
 export { colors };

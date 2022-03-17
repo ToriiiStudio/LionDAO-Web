@@ -42,7 +42,7 @@ const Root = styled.div`
 
 const Banner = styled.div`
   padding: 140px 0;
-  background: #AEB09E;
+  background: #828B75;
   font-size: 16px;
   color: ${colors.mainColor};
   text-align: center;

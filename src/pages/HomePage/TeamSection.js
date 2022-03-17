@@ -52,7 +52,7 @@ const TeamSection = () => {
 }
 
 const Root = styled.div`
-  background: linear-gradient(90deg, #3f3d38 0%, #3f3d38 50%, #F0EADC 50.1%, #F0EADC 100%);
+  background: linear-gradient(90deg, #3f3d38 0%, #3f3d38 50%, #ddd4c6 50.1%, #ddd4c6 100%);
 `
 
 const Wrapper = styled(Container)`
@@ -110,7 +110,7 @@ const Side = styled.div`
   padding-top: 240px;
   padding-left: 80px;
   box-sizing: border-box;
-  background: #F0EADC;
+  background: #ddd4c6;
   ${respondTo.md} {
     display: none;
   }
