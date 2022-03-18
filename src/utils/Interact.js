@@ -16,7 +16,7 @@ export const connectWallet = async () => {
         method: "eth_requestAccounts",
       });
       const obj = {
-        status: "Awesome let's buy block banana card. 2 pieces max in one address.",
+        status: "Awesome let's buy NFT. 2 pieces max in one address.",
         address: addressArray[0],
       };
       return obj;
@@ -56,7 +56,7 @@ export const getCurrentWalletConnected = async () => {
       if (addressArray.length > 0) {
         return {
           address: addressArray[0],
-          status: "Awesome let's buy block banana card. 2 pieces max in one address.",
+          status: "Awesome let's buy NFT. 2 pieces max in one address.",
         };
       } else {
         return {
