@@ -173,6 +173,7 @@ const MainItem = styled.div`
     text-align: center;
     color: ${colors.green};
     white-space: break-spaces;
+    p{font-size:20px}
     img {
       display: block;
       margin: auto;

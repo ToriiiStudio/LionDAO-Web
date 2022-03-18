@@ -79,6 +79,7 @@ const Main = styled.div`
   position: relative;
   padding-top: 180px;
   padding-right: 156px;
+  padding-bottom: 180px;
   width: 60%;
   box-sizing: border-box;
   background-color: #3f3d38;
@@ -130,6 +131,7 @@ const MainItem = styled.div`
   ${({ active }) => active && css`
   `}
   img {
+    border-radius: 12px;
     display: block;
     margin: 0 auto;
     margin-bottom: 12px;
@@ -182,6 +184,9 @@ const SideItem = styled.div`
     visibility: visible;
   `}
   img {
+    padding: 6px;
+    border-radius: 50% 50% 0 0;
+    box-shadow: 0px 0px 0px 1px ${colors.green};
     margin: 0 auto;
     object-fit: cover;
     display: block;
