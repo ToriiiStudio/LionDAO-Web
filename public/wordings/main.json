@@ -12,7 +12,7 @@
       "side": "Company + Community + Blockchain + Metaverse",
       "heading": {
         "social": [
-          { "icon": "Opensea", "link": "" },
+          { "icon": "Opensea", "link": "https://opensea.io/collection/lion-dao-v2" },
           { "icon": "Discord", "link": "" },
           { "icon": "Twitter", "link": "" },
           { "icon": "Facebook", "link": "" }
@@ -124,7 +124,7 @@
         "hint": "Demo：Integrate enterprise and product NFT"
       },
       "social": [
-        { "icon": "Opensea", "link": "" },
+        { "icon": "Opensea", "link": "https://opensea.io/collection/lion-dao-v2" },
         { "icon": "Discord", "link": "" },
         { "icon": "Twitter", "link": "" },
         { "icon": "Facebook", "link": "" }
@@ -148,7 +148,7 @@
       "side": "Company + Community + Blockchain + Metaverse",
       "heading": {
         "social": [
-          { "icon": "Opensea", "link": "" },
+          { "icon": "Opensea", "link": "https://opensea.io/collection/lion-dao-v2" },
           { "icon": "Discord", "link": "" },
           { "icon": "Twitter", "link": "" },
           { "icon": "Facebook", "link": "" }
@@ -260,7 +260,7 @@
         "hint": "Demo：Integrate enterprise and product NFT"
       },
       "social": [
-        { "icon": "Opensea", "link": "" },
+        { "icon": "Opensea", "link": "https://opensea.io/collection/lion-dao-v2" },
         { "icon": "Discord", "link": "" },
         { "icon": "Twitter", "link": "" },
         { "icon": "Facebook", "link": "" }
