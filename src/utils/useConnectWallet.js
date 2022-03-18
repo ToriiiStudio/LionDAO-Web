@@ -31,7 +31,7 @@ const useConnectWallet = () => {
             q.Lambda("signature", q.Get(q.Var("signature")))))
             .then((response) => {
               if (response.data[0] !== undefined){
-                dispatch(walletStatus.actions.setHint("Awesome let's buy block banana card. 2 pieces max in one address."));
+                dispatch(walletStatus.actions.setHint("Awesome let's buy NFT. 2 pieces max in one address."));
               } else {
                 dispatch(walletStatus.actions.setHint("You are not in whitelist."));
               }       
@@ -62,7 +62,7 @@ const useConnectWallet = () => {
                 q.Lambda("signature", q.Get(q.Var("signature")))))
                 .then((response) => {
                   if (response.data[0] !== undefined){
-                    dispatch(walletStatus.actions.setHint("Awesome let's buy block banana card. 2 pieces max in one address."));
+                    dispatch(walletStatus.actions.setHint("Awesome let's buy NFT. 2 pieces max in one address."));
                   } else {
                     dispatch(walletStatus.actions.setHint("You are not in whitelist."));
                   }       
@@ -99,7 +99,7 @@ const useConnectWallet = () => {
   async function handleConnectWallet () {
     if (isAndroid || isIOS){
       if (!window.ethereum || !window.ethereum.isMetaMask) {
-        window.location = "https://metamask.app.link/dapp/liondao.tw";
+        window.location = "https://metamask.app.link/dapp/liondaonft.com/";
       } else {
         const walletResponse = await connectWallet();
         if (walletResponse.address.length > 0){
@@ -114,7 +114,7 @@ const useConnectWallet = () => {
                 q.Lambda("signature", q.Get(q.Var("signature")))))
                 .then((response) => {
                   if (response.data[0] !== undefined){
-                    dispatch(walletStatus.actions.setHint("Awesome let's buy block banana card. 2 pieces max in one address."));
+                    dispatch(walletStatus.actions.setHint("Awesome let's buy NFT. 2 pieces max in one address."));
                   } else {
                     dispatch(walletStatus.actions.setHint("You are not in whitelist."));
                   }       
@@ -141,7 +141,7 @@ const useConnectWallet = () => {
               q.Lambda("signature", q.Get(q.Var("signature")))))
               .then((response) => {
                 if (response.data[0] !== undefined){
-                  dispatch(walletStatus.actions.setHint("Awesome let's buy block banana card. 2 pieces max in one address."));
+                  dispatch(walletStatus.actions.setHint("Awesome let's buy NFT. 2 pieces max in one address."));
                 } else {
                   dispatch(walletStatus.actions.setHint("You are not in whitelist."));
                 }       

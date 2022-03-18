@@ -12,7 +12,7 @@
       "side": "Company + Community + Blockchain + Metaverse",
       "heading": {
         "social": [
-          { "icon": "Opensea", "link": "" },
+          { "icon": "Opensea", "link": "https://opensea.io/collection/lion-dao-v2" },
           { "icon": "Discord", "link": "" },
           { "icon": "Twitter", "link": "" },
           { "icon": "Facebook", "link": "" }
@@ -124,7 +124,7 @@
         "hint": "Demo：Integrate enterprise and product NFT"
       },
       "social": [
-        { "icon": "Opensea", "link": "" },
+        { "icon": "Opensea", "link": "https://opensea.io/collection/lion-dao-v2" },
         { "icon": "Discord", "link": "" },
         { "icon": "Twitter", "link": "" },
         { "icon": "Facebook", "link": "" }
@@ -148,7 +148,7 @@
       "side": "Company + Community + Blockchain + Metaverse",
       "heading": {
         "social": [
-          { "icon": "Opensea", "link": "" },
+          { "icon": "Opensea", "link": "https://opensea.io/collection/lion-dao-v2" },
           { "icon": "Discord", "link": "" },
           { "icon": "Twitter", "link": "" },
           { "icon": "Facebook", "link": "" }
@@ -227,7 +227,7 @@
           "title": "NFT 專業技術開發團隊",
           "image": "/images/team-simon_koh.png",
           "cover": "/images/team-simon_koh-cover.png",
-          "content": "・NFT 專業技術開發團隊\n・負責前、後端串接、Metadata 生成與智能合約客製化設計\n・提供 low gas 合約與安全審計技術支援"
+          "content": "・NFT 專業技術開發團隊\n・負責前、後端串接、Metadata 生成與智能合約設計\n・提供 low gas 合約與安全審計技術支援"
         },
         {
           "name": "Hans Chen",
@@ -260,7 +260,7 @@
         "hint": "Demo：Integrate enterprise and product NFT"
       },
       "social": [
-        { "icon": "Opensea", "link": "" },
+        { "icon": "Opensea", "link": "https://opensea.io/collection/lion-dao-v2" },
         { "icon": "Discord", "link": "" },
         { "icon": "Twitter", "link": "" },
         { "icon": "Facebook", "link": "" }
