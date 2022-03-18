@@ -42,9 +42,9 @@ const Root = styled.div`
 
 const Banner = styled.div`
   padding: 140px 0;
-  background: #AEB09E;
+  background: #828B75;
   font-size: 16px;
-  color: ${colors.white};
+  color: ${colors.mainColor};
   text-align: center;
   ${respondTo.md} {
     padding: 50px 72px;

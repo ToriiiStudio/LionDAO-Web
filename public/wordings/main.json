@@ -12,130 +12,122 @@
       "side": "Company + Community + Blockchain + Metaverse",
       "heading": {
         "social": [
-          { "icon": "Opensea", "link": "https://twitter.com/" },
-          { "icon": "Discord", "link": "https://discord.gg/vNDdUqpzbF" },
-          { "icon": "Twitter", "link": "https://twitter.com/" },
-          { "icon": "Facebook", "link": "https://twitter.com/" }
+          { "icon": "Opensea", "link": "" },
+          { "icon": "Discord", "link": "" },
+          { "icon": "Twitter", "link": "" },
+          { "icon": "Facebook", "link": "" }
         ]
       },
       "intro":  [
         {
           "icon": "/images/icon-crawl.svg",
-          "content": "Let the infinite imagination of the metaverse become the new future!\nNew Future. New MetaLion.\n\n\"Integrate enterprise and product NFT, and jointly create a new consumption cycle ecosystem in the future.\""
+          "content": "\"LIONDAO NFT\n\nTaiwan’s very first metaverse enterprise community with high quality holders and massive enterprise resources.\n\nCorporate Innovation X Metaverse X Digital Transformation.\n\nMore than 95% are CEO or senior level managers across digital and traditional industries. In the future, more metaverse and NFT developments will occur to create the first Social DAO with metaverse industry consensus and incubate MetaStar for future impact.\""
         },
         {
           "icon": "/images/icon-crawl.svg",
-          "content": "Let the infinite imagination of the metaverse become the new future!\nNew Future. New MetaLion.\n\n\"Integrate enterprise and product NFT, and jointly create a new consumption cycle ecosystem in the future.\""
+          "content": "Establish an enterprise metaverse college for, drive cross-industry AMA exchanges and transformation, promote NFT application landings and interdisciplinary collaborations to maximize the landings of NFT applications! Build an enterprise community with consensus and influence.\""
         },
         {
           "icon": "/images/icon-crawl.svg",
-          "content": "Let the infinite imagination of the metaverse become the new future!\nNew Future. New MetaLion.\n\n\"Integrate enterprise and product NFT, and jointly create a new consumption cycle ecosystem in the future.\""
+          "content": "\"In the Web 3.0 era, industries must address the market by upgrading their brands, performing digital transformations, and adopting new business models based on community benefit, consensus, and sharing to establish a circular consumer ecosystem. This allows enterprise self-media to embrace new business models, build an enterprise new media creative platform, and venture together into the metaverse.\""
         }
       ],
       "story": [
         {
           "photo": "/images/story-1.png",
-          "content": "Demo：Integrate enterprise and product NFT, and jointly create a new \nconsumption cycle ecosystem in the future."
+          "content": "WHAT IS THIS?"
         },
         {
-          "photo": "http://placehold.jp/500x200?text=2",
-          "content": "Demo2：Integrate enterprise and product NFT, and jointly create a new \nconsumption cycle ecosystem in the future."
+          "photo": "/images/story-2.png",
+          "content": "I HEARD A VOICE IS CALLING US.\nLOOK! THERE IS A GATE.\nBUDDIES, LET'S FIND OUT."
         },
         {
-          "photo": "http://placehold.jp/500x200?text=3",
-          "content": "Demo3：Integrate enterprise and product NFT, and jointly create a new \nconsumption cycle ecosystem in the future."
+          "photo": "/images/story-3.png",
+          "content": "WHAT...?\nWHAT HAPPEN TO ME?"
         },
         {
-          "photo": "http://placehold.jp/500x200?text=4",
-          "content": "Demo4：Integrate enterprise and product NFT, and jointly create a new \nconsumption cycle ecosystem in the future."
-        },
-        {
-          "photo": "http://placehold.jp/500x200?text=5",
-          "content": "Demo5：Integrate enterprise and product NFT, and jointly create a new \nconsumption cycle ecosystem in the future."
-        },
-        {
-          "photo": "http://placehold.jp/500x200?text=6",
-          "content": "Demo6：Integrate enterprise and product NFT, and jointly create a new \nconsumption cycle ecosystem in the future."
+          "photo": "/images/story-4.png",
+          "content": "HERE WE ARE, LIONDAO, A WHOLE NEW WORLD."
         }
       ],
       "team": [
         {
           "name": "Simon Koh",
-          "title": "Co-founder",
+          "title": "Founder of AMT Asia-Pacific Martech Transformation Alliance",
           "image": "/images/team-simon_koh.png",
           "cover": "/images/team-simon_koh-cover.png",
-          "content": "・Corporate PR Crisis Handling and Marketing Strategy Chief Adviser\n・Senior media person in Taiwan\n・Media and Film Industry Transformation Strategic Investment Consultant"
+          "content": "・Founder of AMT Asia-Pacific Martech Transformation Alliance Association\n・Founder of Big Data Play Brand\n・Chief Consultant of Big Data Brands at Leo Burnett\n・Brand Director of Brand Accelerator at General Chamber of Commerce of the Republic of China\n・Brand General Manager at Wowprime (12 years)\n・Head of Business and Planning at Ogilvy (12 years)"
         },
         {
-          "name": "Simon Koh",
-          "title": "Co-founder",
+          "name": "Maclin",
+          "title": "General Manager of Six Star Gears - Yieh Chen Machinery Co., Ltd",
           "image": "/images/team-simon_koh.png",
           "cover": "/images/team-simon_koh-cover.png",
-          "content": "・Corporate PR Crisis Handling and Marketing Strategy Chief Adviser\n・Senior media person in Taiwan\n・Media and Film Industry Transformation Strategic Investment Consultant"
+          "content": "・・General Manager of Six Star Gears - Yieh Chen Machinery Co., Ltd\n・General Manager of Allstar Precision Machinery Co., Ltd\n・Ombudsman of King Ray Yeng Industry Co., Ltd\n・2019-2020 Zone Director of zone 3642 for Rotary International"
         },
         {
-          "name": "Simon Koh",
-          "title": "Co-founder",
+          "name": "Boss Lee",
+          "title": "Strategic Investment Consultant for Media and Broadcasting Industry Transformation",
           "image": "/images/team-simon_koh.png",
           "cover": "/images/team-simon_koh-cover.png",
-          "content": "・Corporate PR Crisis Handling and Marketing Strategy Chief Adviser\n・Senior media person in Taiwan\n・Media and Film Industry Transformation Strategic Investment Consultant"
+          "content": "・Enterprise PR crisis management and marketing strategy\n・Chief Consultant\n・Senior mediaperson in Taiwan\n・Strategic Investment Consultant, Media and Broadcasting Industry Transformation"
         },
         {
-          "name": "Simon Koh",
-          "title": "Co-founder",
+          "name": "James C.F. Huang",
+          "title": "Chairman of Taiwan External Trade Development Council (TAITRA)",
           "image": "/images/team-simon_koh.png",
           "cover": "/images/team-simon_koh-cover.png",
-          "content": "・Corporate PR Crisis Handling and Marketing Strategy Chief Adviser\n・Senior media person in Taiwan\n・Media and Film Industry Transformation Strategic Investment Consultant"
+          "content": "・Chairman of Taiwan External Trade Development Council (TAITRA)"
         },
         {
-          "name": "Simon Koh",
-          "title": "Co-founder",
+          "name": "David Pan",
+          "title": "Founder of ACE Group",
           "image": "/images/team-simon_koh.png",
           "cover": "/images/team-simon_koh-cover.png",
-          "content": "・Corporate PR Crisis Handling and Marketing Strategy Chief Adviser\n・Senior media person in Taiwan\n・Media and Film Industry Transformation Strategic Investment Consultant"
+          "content": "・Founder of Ace Exchange\n・Founder of ABA Asia Blockchain Accelerator\n・Founder of Lead Capital, Singapore"
         },
         {
-          "name": "Simon Koh",
-          "title": "Co-founder",
+          "name": "Toriii Studio",
+          "title": "Professional development team for NFT technologies",
           "image": "/images/team-simon_koh.png",
           "cover": "/images/team-simon_koh-cover.png",
-          "content": "・Corporate PR Crisis Handling and Marketing Strategy Chief Adviser\n・Senior media person in Taiwan\n・Media and Film Industry Transformation Strategic Investment Consultant"
+          "content": "・Professional development team for NFT technologies\n・Responsible for connecting the front/back end, metadata generation, and customization design of smart contracts\n・Provides low gas contracts and technical support for security audits"
         },
         {
-          "name": "Simon Koh",
-          "title": "Co-founder",
+          "name": "Hans Chen",
+          "title": "CEO of Guolea",
           "image": "/images/team-simon_koh.png",
           "cover": "/images/team-simon_koh-cover.png",
-          "content": "・Corporate PR Crisis Handling and Marketing Strategy Chief Adviser\n・Senior media person in Taiwan\n・Media and Film Industry Transformation Strategic Investment Consultant"
+          "content": "・CEO of Guolea\n・Chief Consultant for interdisciplinary brand counseling and strategic application of blockchain\n・Known as “Brand Doctor” within the industry"
         },
         {
-          "name": "Simon Koh",
-          "title": "Co-founder",
+          "name": "Lionel Chiang",
+          "title": "Chief Consultant of Strategic Development in the Blockchain Industry",
           "image": "/images/team-simon_koh.png",
           "cover": "/images/team-simon_koh-cover.png",
-          "content": "・Corporate PR Crisis Handling and Marketing Strategy Chief Adviser\n・Senior media person in Taiwan\n・Media and Film Industry Transformation Strategic Investment Consultant"
+          "content": "・Chief Consultant of Strategic Development in the Blockchain Industry\n・Industrialist managing businesses across industries"
         },
         {
-          "name": "Simon Koh",
-          "title": "Co-founder",
+          "name": "Kenneth Kao",
+          "title": "Founder of Withheart Capital",
           "image": "/images/team-simon_koh.png",
           "cover": "/images/team-simon_koh-cover.png",
-          "content": "・Corporate PR Crisis Handling and Marketing Strategy Chief Adviser\n・Senior media person in Taiwan\n・Media and Film Industry Transformation Strategic Investment Consultant"
+          "content": "・Founder of SSTrade\n・Founder of Withheart Capital\n・NFT Evangelist"
         }
       ],
-      "banner": "\"Integrate enterprise and product NFT, and jointly create a new consumption cycle ecosystem in the future.\"",
+      "banner": "\"Establish the limitless imagination within the metaverse into the new future!\nNew Future, New MetaStar.\"",
       "mint": {
         "title": "mint liondao nft",
-        "description": "Demo：Integrate enterprise and product NFT, and jointly create a new consumption cycle ecosystem in the future.",
+        "description": "Establish the limitless imagination within the metaverse into the new future!\nNew Future, new MetaStar.",
         "price": "0.8",
         "photo": "/images/mint.png",
         "hint": "Demo：Integrate enterprise and product NFT"
       },
       "social": [
-        { "icon": "Opensea", "link": "https://twitter.com/" },
-        { "icon": "Discord", "link": "https://discord.gg/vNDdUqpzbF" },
-        { "icon": "Twitter", "link": "https://twitter.com/" },
-        { "icon": "Facebook", "link": "https://twitter.com/" }
+        { "icon": "Opensea", "link": "" },
+        { "icon": "Discord", "link": "" },
+        { "icon": "Twitter", "link": "" },
+        { "icon": "Facebook", "link": "" }
       ],
       "mint_button": "MINT LIONDAO NFT"
     },
@@ -146,140 +138,132 @@
   "zh-TW": {
     "header": {
       "links": [
-        { "to": "/?to=meta", "title": "META" },
-        { "to": "/?to=team", "title": "團隊" },
-        { "to": "/?to=mint", "title": "MINT" },
-        { "to": "/?to=community", "title": "COMMUNITY" }
+        { "to": "/?to=meta", "title": "元宇宙" },
+        { "to": "/?to=team", "title": "團隊介紹" },
+        { "to": "/?to=mint", "title": "鑄造" },
+        { "to": "/?to=community", "title": "社群媒體" }
       ]
     },
     "homepage": {
       "side": "Company + Community + Blockchain + Metaverse",
       "heading": {
         "social": [
-          { "icon": "Opensea", "link": "https://twitter.com/" },
-          { "icon": "Discord", "link": "https://discord.gg/vNDdUqpzbF" },
-          { "icon": "Twitter", "link": "https://twitter.com/" },
-          { "icon": "Facebook", "link": "https://twitter.com/" }
+          { "icon": "Opensea", "link": "" },
+          { "icon": "Discord", "link": "" },
+          { "icon": "Twitter", "link": "" },
+          { "icon": "Facebook", "link": "" }
         ]
       },
       "intro":  [
         {
           "icon": "/images/icon-crawl.svg",
-          "content": "Let the infinite imagination of the metaverse become the new future!\nNew Future. New MetaLion.\n\n\"Integrate enterprise and product NFT, and jointly create a new consumption cycle ecosystem in the future.\""
+          "content": "\"LIONDAO NFT\n\n全台第一個元宇宙企業社群，持有者企業資源與含金量超高\n\n企業創新X元宇宙X數位轉型\n\n95%以上皆為CEO、高階經理人，橫跨數位與傳統產業，未來將有更多元宇宙與NFT發展交流，創造第一個元宇宙產業共識Social DAO，孵化未來具影響力的MetaStar\""
         },
         {
           "icon": "/images/icon-crawl.svg",
-          "content": "Let the infinite imagination of the metaverse become the new future!\nNew Future. New MetaLion.\n\n\"Integrate enterprise and product NFT, and jointly create a new consumption cycle ecosystem in the future.\""
+          "content": "\"成立企業元宇宙學院，推動產業跨域 AMA 交流與轉型，推動NFT落地應用，以及跨領域合作，將 NFT 落地應用極大化！建構企業社群共識與影響力\""
         },
         {
           "icon": "/images/icon-crawl.svg",
-          "content": "Let the infinite imagination of the metaverse become the new future!\nNew Future. New MetaLion.\n\n\"Integrate enterprise and product NFT, and jointly create a new consumption cycle ecosystem in the future.\""
+          "content": "\"Web 3.0 時代，產業面對市場皆要做品牌升級、數位轉型與產業新商業模式，社群共利、共識與共享，建立消費循環生態系，讓企業自媒體擁抱新商模，建立企業新媒體創作平台，一起飛行元宇宙\""
         }
       ],
       "story": [
         {
-          "photo": "/images/story-1.png",
-          "content": "Demo：Integrate enterprise and product NFT, and jointly create a new \nconsumption cycle ecosystem in the future."
+            "photo": "/images/story-1.png",
+            "content": "這是什麼？"
         },
         {
-          "photo": "/images/story-1.png",
-          "content": "Demo：Integrate enterprise and product NFT, and jointly create a new \nconsumption cycle ecosystem in the future."
+            "photo": "/images/story-2.png",
+            "content": "我聽到一個聲音在呼喚我們，\n那裡有一道門，\n夥伴們，讓我們一起去看看！"
         },
         {
-          "photo": "/images/story-1.png",
-          "content": "Demo：Integrate enterprise and product NFT, and jointly create a new \nconsumption cycle ecosystem in the future."
+            "photo": "/images/story-3.png",
+            "content": "什麼...?\n發生了什麼事情？"
         },
         {
-          "photo": "/images/story-1.png",
-          "content": "Demo：Integrate enterprise and product NFT, and jointly create a new \nconsumption cycle ecosystem in the future."
-        },
-        {
-          "photo": "/images/story-1.png",
-          "content": "Demo：Integrate enterprise and product NFT, and jointly create a new \nconsumption cycle ecosystem in the future."
-        },
-        {
-          "photo": "/images/story-1.png",
-          "content": "Demo：Integrate enterprise and product NFT, and jointly create a new \nconsumption cycle ecosystem in the future."
+            "photo": "/images/story-4.png",
+            "content": "我們來了，LIONDAO，這是個全新的世界！"
         }
       ],
       "team": [
         {
           "name": "Simon Koh",
-          "title": "Co-founder",
+          "title": "AMT 亞太行銷數位轉型聯盟協會 創辦人",
           "image": "/images/team-simon_koh.png",
           "cover": "/images/team-simon_koh-cover.png",
-          "content": "・Corporate PR Crisis Handling and Marketing Strategy Chief Adviser\n・Senior media person in Taiwan\n・Media and Film Industry Transformation Strategic Investment Consultant"
+          "content": "・AMT 亞太行銷數位轉型聯盟協會 創辦人\n・大數據熱品牌創新中心 創辦人\n・李奧貝納 大數據品牌 首席顧問\n・商業總會品牌加速中心 品牌長\n・王品集團 品牌總經理(12年)\n・奧美集團 業務企劃總監(12年)"
         },
         {
-          "name": "Simon Koh",
-          "title": "Co-founder",
+          "name": "Maclin",
+          "title": "六星集團-羿晨機械股份有限公司 總經理",
           "image": "/images/team-simon_koh.png",
           "cover": "/images/team-simon_koh-cover.png",
-          "content": "・Corporate PR Crisis Handling and Marketing Strategy Chief Adviser\n・Senior media person in Taiwan\n・Media and Film Industry Transformation Strategic Investment Consultant"
+          "content": "・六星集團-羿晨機械股份有限公司 總經理\n・六羿精密科技股份有限公司 總經理\n・金瑞瑩工業股份有限公司 監察人\n・國際扶輪3462地區 2019-20年度地區總監"
         },
         {
-          "name": "Simon Koh",
-          "title": "Co-founder",
+          "name": "Boss Lee",
+          "title": "媒體與影視產業轉型策略投資顧問",
           "image": "/images/team-simon_koh.png",
           "cover": "/images/team-simon_koh-cover.png",
-          "content": "・Corporate PR Crisis Handling and Marketing Strategy Chief Adviser\n・Senior media person in Taiwan\n・Media and Film Industry Transformation Strategic Investment Consultant"
+          "content": "・企業公關危機處理與營銷戰略\n・首席顧問\n・台灣資深媒體人\n・媒體與影視產業轉型 策略投資顧問"
         },
         {
-          "name": "Simon Koh",
-          "title": "Co-founder",
+          "name": "James C.F. Huang",
+          "title": "外貿協會 TAITRA  董事長",
           "image": "/images/team-simon_koh.png",
           "cover": "/images/team-simon_koh-cover.png",
-          "content": "・Corporate PR Crisis Handling and Marketing Strategy Chief Adviser\n・Senior media person in Taiwan\n・Media and Film Industry Transformation Strategic Investment Consultant"
+          "content": "・外貿協會 TAITRA 董事長"
         },
         {
-          "name": "Simon Koh",
-          "title": "Co-founder",
+          "name": "David Pan",
+          "title": "ACE 集團創辦人",
           "image": "/images/team-simon_koh.png",
           "cover": "/images/team-simon_koh-cover.png",
-          "content": "・Corporate PR Crisis Handling and Marketing Strategy Chief Adviser\n・Senior media person in Taiwan\n・Media and Film Industry Transformation Strategic Investment Consultant"
+          "content": "・ACE王牌數位資產交易所創辦人\n・ABA亞洲區塊鏈加速器創辦人\n・Lead Capital 新加坡領先資本創辦人"
         },
         {
-          "name": "Simon Koh",
-          "title": "Co-founder",
+          "name": "Toriii Studio",
+          "title": "NFT 專業技術開發團隊",
           "image": "/images/team-simon_koh.png",
           "cover": "/images/team-simon_koh-cover.png",
-          "content": "・Corporate PR Crisis Handling and Marketing Strategy Chief Adviser\n・Senior media person in Taiwan\n・Media and Film Industry Transformation Strategic Investment Consultant"
+          "content": "・NFT 專業技術開發團隊\n・負責前、後端串接、Metadata 生成與智能合約客製化設計\n・提供 low gas 合約與安全審計技術支援"
         },
         {
-          "name": "Simon Koh",
-          "title": "Co-founder",
+          "name": "Hans Chen",
+          "title": "果俐文創 CEO",
           "image": "/images/team-simon_koh.png",
           "cover": "/images/team-simon_koh-cover.png",
-          "content": "・Corporate PR Crisis Handling and Marketing Strategy Chief Adviser\n・Senior media person in Taiwan\n・Media and Film Industry Transformation Strategic Investment Consultant"
+          "content": "・果俐文創 CEO\n・跨域品牌輔導與區塊鏈策略應用首席顧問\n・業界有「品牌醫生」之稱"
         },
         {
-          "name": "Simon Koh",
-          "title": "Co-founder",
+          "name": "Lionel Chiang",
+          "title": "區塊鏈產業策略發展首席顧問",
           "image": "/images/team-simon_koh.png",
           "cover": "/images/team-simon_koh-cover.png",
-          "content": "・Corporate PR Crisis Handling and Marketing Strategy Chief Adviser\n・Senior media person in Taiwan\n・Media and Film Industry Transformation Strategic Investment Consultant"
+          "content": "・區塊鏈產業策略發展首席顧問\n・跨產業企業經營實業家"
         },
         {
-          "name": "Simon Koh",
-          "title": "Co-founder",
+          "name": "Kenneth Kao",
+          "title": "唯心資本創辦人",
           "image": "/images/team-simon_koh.png",
           "cover": "/images/team-simon_koh-cover.png",
-          "content": "・Corporate PR Crisis Handling and Marketing Strategy Chief Adviser\n・Senior media person in Taiwan\n・Media and Film Industry Transformation Strategic Investment Consultant"
+          "content": "・時事交易創辦人\n・唯心資本創辦人\n・NFT 佈道者"
         }
       ],
-      "banner": "\"Integrate enterprise and product NFT, and jointly create a new consumption cycle ecosystem in the future.\"",
+      "banner": "\"讓元宇宙的無限想像，成為新未來！\"",
       "mint": {
         "title": "mint liondao nft",
-        "description": "Demo：Integrate enterprise and product NFT, and jointly create a new consumption cycle ecosystem in the future.",
+        "description": "讓元宇宙的無限想像，成為新未來！\nNew Future, new MetaStar.",
         "price": "0.8",
         "photo": "/images/mint.png",
         "hint": "Demo：Integrate enterprise and product NFT"
       },
       "social": [
-        { "icon": "Opensea", "link": "https://twitter.com/" },
-        { "icon": "Discord", "link": "https://discord.gg/vNDdUqpzbF" },
-        { "icon": "Twitter", "link": "https://twitter.com/" },
-        { "icon": "Facebook", "link": "https://twitter.com/" }
+        { "icon": "Opensea", "link": "" },
+        { "icon": "Discord", "link": "" },
+        { "icon": "Twitter", "link": "" },
+        { "icon": "Facebook", "link": "" }
       ],
       "mint_button": "MINT LIONDAO NFT"
     },

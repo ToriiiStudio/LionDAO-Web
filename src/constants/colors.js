@@ -1,6 +1,6 @@
 const colors = {
-  mainColor: "#F0EADC",
-  darkMainColor: "#DDD4C6",
+  mainColor: "#3f3d38",
+  darkMainColor: "#3f3d38",
   green: "#828B75",
   brown: "#AFA092",
   brandYellow: "#D8DE00",
