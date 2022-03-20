@@ -13,9 +13,9 @@
       "heading": {
         "social": [
           { "icon": "Opensea", "link": "https://opensea.io/collection/lion-dao" },
-          { "icon": "Discord", "link": "" },
-          { "icon": "Twitter", "link": "" },
-          { "icon": "Facebook", "link": "" }
+          { "icon": "Discord", "link": "https://www.liondaonft.com/" },
+          { "icon": "Twitter", "link": "https://www.liondaonft.com/" },
+          { "icon": "Facebook", "link": "https://www.liondaonft.com/" }
         ]
       },
       "intro":  [
@@ -125,9 +125,9 @@
       },
       "social": [
         { "icon": "Opensea", "link": "https://opensea.io/collection/lion-dao" },
-        { "icon": "Discord", "link": "" },
-        { "icon": "Twitter", "link": "" },
-        { "icon": "Facebook", "link": "" }
+        { "icon": "Discord", "link": "https://www.liondaonft.com/" },
+        { "icon": "Twitter", "link": "https://www.liondaonft.com/" },
+        { "icon": "Facebook", "link": "https://www.liondaonft.com/" }
       ],
       "mint_button": "MINT LIONDAO NFT"
     },
@@ -149,9 +149,9 @@
       "heading": {
         "social": [
           { "icon": "Opensea", "link": "https://opensea.io/collection/lion-dao" },
-          { "icon": "Discord", "link": "" },
-          { "icon": "Twitter", "link": "" },
-          { "icon": "Facebook", "link": "" }
+          { "icon": "Discord", "link": "https://www.liondaonft.com/" },
+          { "icon": "Twitter", "link": "https://www.liondaonft.com/" },
+          { "icon": "Facebook", "link": "https://www.liondaonft.com/" }
         ]
       },
       "intro":  [
@@ -282,9 +282,9 @@
       },
       "social": [
         { "icon": "Opensea", "link": "https://opensea.io/collection/lion-dao" },
-        { "icon": "Discord", "link": "" },
-        { "icon": "Twitter", "link": "" },
-        { "icon": "Facebook", "link": "" }
+        { "icon": "Discord", "link": "https://www.liondaonft.com/" },
+        { "icon": "Twitter", "link": "https://www.liondaonft.com/" },
+        { "icon": "Facebook", "link": "https://www.liondaonft.com/" }
       ],
       "mint_button": "MINT LIONDAO NFT"
     },
