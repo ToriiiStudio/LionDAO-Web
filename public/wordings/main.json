@@ -53,69 +53,90 @@
       "team": [
         {
           "name": "Boss Lee",
-          "title": "Strategic Investment Consultant for Media and Broadcasting Industry Transformation",
-          "image": "/images/team-simon_koh.png",
-          "cover": "/images/team-simon_koh-cover.png",
+          "title": "Founder",
+          "image": "/images/Team/南姐.JPG",
+          "cover": "/images/Team/南姐.JPG",
           "content": "・Enterprise PR crisis management and marketing strategy\n・Chief Consultant\n・Senior mediaperson in Taiwan\n・Strategic Investment Consultant, Media and Broadcasting Industry Transformation"
         },
         {
           "name": "Hans Chen",
-          "title": "CEO of Guolea",
-          "image": "/images/team-simon_koh.png",
-          "cover": "/images/team-simon_koh-cover.png",
+          "title": "Founder",
+          "image": "/images/Team/Hans.png",
+          "cover": "/images/Team/Hans.png",
           "content": "・CEO of Guolea\n・Chief Consultant for interdisciplinary brand counseling and strategic application of blockchain\n・Known as “Brand Doctor” within the industry"
         },
         {
           "name": "Lionel Chiang",
-          "title": "Chief Consultant of Strategic Development in the Blockchain Industry",
-          "image": "/images/team-simon_koh.png",
-          "cover": "/images/team-simon_koh-cover.png",
+          "title": "Founder",
+          "image": "/images/Team/建良.png",
+          "cover": "/images/Team/建良.png",
           "content": "・Chief Consultant of Strategic Development in the Blockchain Industry\n・Industrialist managing businesses across industries"
         },
         {
           "name": "Kenneth Kao",
-          "title": "Founder of Idealism Capital",
-          "image": "/images/team-simon_koh.png",
-          "cover": "/images/team-simon_koh-cover.png",
+          "title": "Founder",
+          "image": "/images/Team/Ken.png",
+          "cover": "/images/Team/Ken.png",
           "content": "・Founder of SSTrade\n・Founder of Withheart Capital\n・NFT Evangelist"
         },
         {
           "name": "James C.F. Huang",
-          "title": "Chairman of Taiwan External Trade Development Council (TAITRA)",
-          "image": "/images/team-simon_koh.png",
-          "cover": "/images/team-simon_koh-cover.png",
+          "title": "MetaLion",
+          "image": "/images/Team/黃志芳.png",
+          "cover": "/images/Team/黃志芳.png",
           "content": "・Chairman of Taiwan External Trade Development Council (TAITRA)"
         },
         {
           "name": "Simon Koh",
-          "title": "Founder of AMT Asia-Pacific Martech Transformation Alliance Association",
-          "image": "/images/mint.png",
-          "cover": "/images/mint.png",
+          "title": "MetaLion",
+          "image": "/images/Team/高端訓.png",
+          "cover": "/images/Team/高端訓.png",
           "content": "・Founder of AMT Asia-Pacific Martech Transformation Alliance Association\n・Founder of Big Data Play Brand\n・Chief Consultant of Big Data Brands at Leo Burnett\n・Brand Director of Brand Accelerator at General Chamber of Commerce of the Republic of China\n・Brand General Manager at Wowprime (12 years)\n・Head of Business and Planning at Ogilvy (12 years)"
         },
         {
           "name": "Maclin",
-          "title": "General Manager of Six Star Gears - Yieh Chen Machinery Co., Ltd",
-          "image": "/images/team-simon_koh.png",
-          "cover": "/images/team-simon_koh-cover.png",
+          "title": "MetaLion",
+          "image": "/images/Team/Maclin.png",
+          "cover": "/images/Team/Maclin.png",
           "content": "・General Manager of Six Star Gears - Yieh Chen Machinery Co., Ltd\n・General Manager of Allstar Precision Machinery Co., Ltd\n・Ombudsman of King Ray Yeng Industry Co., Ltd\n・2019-2020 Zone Director of zone 3642 for Rotary International"
         },
         {
+          "name": "Eason Huang",
+          "title": "MetaLion",
+          "image": "/images/Team/黃義升.png",
+          "cover": "/images/Team/黃義升.png",
+          "content": ""
+        },
+        {
           "name": "David Pan",
-          "title": "Founder of ACE Group",
-          "image": "/images/team-simon_koh.png",
-          "cover": "/images/team-simon_koh-cover.png",
+          "title": "MetaLion",
+          "image": "/images/Team/David Pan.png",
+          "cover": "/images/Team/David Pan.png",
           "content": "・Founder of Ace Exchange\n・Founder of ABA Asia Blockchain Accelerator\n・Founder of Lead Capital, Singapore"
         },
         {
           "name": "Toriii Studio",
-          "title": "Professional development team for NFT technologies",
-          "image": "/images/team-simon_koh.png",
-          "cover": "/images/team-simon_koh-cover.png",
+          "title": "MetaLion",
+          "image": "/images/Team/Toriii.png",
+          "cover": "/images/Team/Toriii.png",
           "content": "・Professional development team for NFT technologies\n・Responsible for connecting the front/back end, metadata generation, and customization design of smart contracts\n・Provides low gas contracts and technical support for security audits"
+        },
+        {
+          "name": "Alphashark club",
+          "title": "MetaLion",
+          "image": "/images/Team/鯊魚.jpg",
+          "cover": "/images/Team/鯊魚.jpg",
+          "content": ""
+        },
+        {
+          "name": "Michael Wang",
+          "title": "MetaLion",
+          "image": "/images/Team/王晨桓.png",
+          "cover": "/images/Team/王晨桓.png",
+          "content": "・General Manager of Six Star Gears - Yieh Chen Machinery Co., Ltd\n・General Manager of Allstar Precision Machinery Co., Ltd\n・Ombudsman of King Ray Yeng Industry Co., Ltd\n・2019-2020 Zone Director of zone 3642 for Rotary International"
         }
       ],
-      "banner": "\"Establish the limitless imagination within the metaverse into the new future!\nNew Future, New MetaStar.\"",
+      "banner": "\"Establish the limitless imagination within the metaverse into the new future!\nNew Future, new MetaStar.\"",
       "mint": {
         "title": "mint liondao nft",
         "description": "Establish the limitless imagination within the metaverse into the new future!\nNew Future, new MetaStar.",
@@ -189,87 +210,87 @@
       "team": [
         {
           "name": "Boss Lee",
-          "title": "媒體與影視產業轉型策略投資顧問",
-          "image": "/images/team-simon_koh.png",
-          "cover": "/images/team-simon_koh-cover.png",
+          "title": "創辦人",
+          "image": "/images/Team/南姐.JPG",
+          "cover": "/images/Team/南姐.JPG",
           "content": "・企業公關危機處理與營銷戰略\n・首席顧問\n・台灣資深媒體人\n・媒體與影視產業轉型 策略投資顧問"
         },
         {
           "name": "Hans Chen",
-          "title": "果俐文創 CEO",
-          "image": "/images/team-simon_koh.png",
-          "cover": "/images/team-simon_koh-cover.png",
+          "title": "創辦人",
+          "image": "/images/Team/Hans.png",
+          "cover": "/images/Team/Hans.png",
           "content": "・果俐文創 CEO\n・跨域品牌輔導與區塊鏈策略應用首席顧問\n・業界有「品牌醫生」之稱"
         },
         {
           "name": "Lionel Chiang",
-          "title": "區塊鏈產業策略發展首席顧問",
-          "image": "/images/team-simon_koh.png",
-          "cover": "/images/team-simon_koh-cover.png",
+          "title": "創辦人",
+          "image": "/images/Team/建良.png",
+          "cover": "/images/Team/建良.png",
           "content": "・區塊鏈產業策略發展首席顧問\n・跨產業企業經營實業家"
         },
         {
           "name": "Kenneth Kao",
-          "title": "唯心資本創辦人",
-          "image": "/images/team-simon_koh.png",
-          "cover": "/images/team-simon_koh-cover.png",
+          "title": "創辦人",
+          "image": "/images/Team/Ken.png",
+          "cover": "/images/Team/Ken.png",
           "content": "・時事交易創辦人\n・唯心資本創辦人\n・NFT 佈道者"
         },
         {
           "name": "James C.F. Huang",
-          "title": "外貿協會 TAITRA 董事長",
-          "image": "/images/team-simon_koh.png",
-          "cover": "/images/team-simon_koh-cover.png",
+          "title": "MetaLion",
+          "image": "/images/Team/黃志芳.png",
+          "cover": "/images/Team/黃志芳.png",
           "content": "・外貿協會 TAITRA 董事長"
         },
         {
           "name": "Simon Koh",
-          "title": "AMT 亞太行銷數位轉型聯盟協會 創辦人",
-          "image": "/images/team-simon_koh.png",
-          "cover": "/images/team-simon_koh-cover.png",
+          "title": "MetaLion",
+          "image": "/images/Team/高端訓.png",
+          "cover": "/images/Team/高端訓.png",
           "content": "・AMT 亞太行銷數位轉型聯盟協會 創辦人\n・大數據熱品牌創新中心 創辦人\n・李奧貝納 大數據品牌 首席顧問\n・商業總會品牌加速中心 品牌長\n・王品集團 品牌總經理(12年)\n・奧美集團 業務企劃總監(12年)"
         },
         {
           "name": "Maclin",
-          "title": "六星集團-羿晨機械股份有限公司 總經理",
-          "image": "/images/team-simon_koh.png",
-          "cover": "/images/team-simon_koh-cover.png",
-          "content": "・六星集團-羿晨機械股份有限公司 總經理\n・六羿精密科技股份有限公司 總經理\n・金瑞瑩工業股份有限公司 監察人\n・國際扶輪3462地區 2019-20年度地區總監"
+          "title": "MetaLion",
+          "image": "/images/Team/Maclin.png",
+          "cover": "/images/Team/Maclin.png",
+          "content": "・六星集團-羿晨機械股份有限公司 總經理\n・六羿精密科技股份有限公司 總經理\n・金瑞瑩工業股份有限公司 監察人\n・國際扶輪 3462 地區 2019-20年度地區總監"
         },
         {
-          "name": "黃義升",
-          "title": "晨間廚房餐飲有限公司共同創辦人暨總監",
-          "image": "/images/team-simon_koh.png",
-          "cover": "/images/team-simon_koh-cover.png",
+          "name": "Eason Huang",
+          "title": "MetaLion",
+          "image": "/images/Team/黃義升.png",
+          "cover": "/images/Team/黃義升.png",
           "content": "・晨間廚房餐飲有限公司共同創辦人暨總監\n・屏東縣大店長聯盟創會會長\n・台灣連鎖加盟促進協會第九屆常務理事\n・台灣連鎖加盟促進協會高雄分會第四屆會長"
         },
         {
           "name": "David Pan",
-          "title": "ACE 集團創辦人",
-          "image": "/images/team-simon_koh.png",
-          "cover": "/images/team-simon_koh-cover.png",
-          "content": "・ACE王牌數位資產交易所創辦人\n・ABA亞洲區塊鏈加速器創辦人\n・Lead Capital 新加坡領先資本創辦人"
+          "title": "MetaLion",
+          "image": "/images/Team/David Pan.png",
+          "cover": "/images/Team/David Pan.png",
+          "content": "・ACE 王牌數位資產交易所創辦人\n・ABA 亞洲區塊鏈加速器創辦人\n・Lead Capital 新加坡領先資本創辦人"
         },
         {
           "name": "Toriii Studio",
-          "title": "NFT 專業技術開發團隊",
-          "image": "/images/team-simon_koh.png",
-          "cover": "/images/team-simon_koh-cover.png",
+          "title": "MetaLion",
+          "image": "/images/Team/Toriii.png",
+          "cover": "/images/Team/Toriii.png",
           "content": "・NFT 專業技術開發團隊\n・負責前、後端串接、Metadata 生成與智能合約客製化設計\n・提供 Low Gas 合約與安全審計技術支援"
         },
         {
-          "name": "鯊魚",
-          "title": "ALPHASHARK CLUB",
-          "image": "/images/team-simon_koh.png",
-          "cover": "/images/team-simon_koh-cover.png",
-          "content": "・亞洲NFT頂尖ALPHA社群"
+          "name": "Alphashark club",
+          "title": "MetaLion",
+          "image": "/images/Team/鯊魚.jpg",
+          "cover": "/images/Team/鯊魚.jpg",
+          "content": "・亞洲 NFT 頂尖 ALPHA 社群"
         },
         {
-          "name": "王晨桓",
-          "title": "建業法律事務所 主持律師/所長",
-          "image": "/images/team-simon_koh.png",
-          "cover": "/images/team-simon_koh-cover.png",
-          "content": "・建業法律事務所氣候變遷與永續發展辦公室召集人\n・當代法律雜誌社社長\n・全國律師聯合會行政法委員會主任委員"
+          "name": "Michael Wang",
+          "title": "MetaLion",
+          "image": "/images/Team/王晨桓.png",
+          "cover": "/images/Team/王晨桓.png",
+          "content": "・全國商業總會會務顧問\n・內政部移民署法規諮詢委員\n・澎湖縣政府法律顧問\n・台灣電力公司研究計畫主持人"
         }
       ],
       "banner": "\"讓元宇宙的無限想像，成為新未來！\"",
