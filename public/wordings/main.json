@@ -21,11 +21,11 @@
       "intro":  [
         {
           "icon": "/images/icon-crawl.svg",
-          "content": "\"LIONDAO NFT\n\nTaiwan’s very first metaverse enterprise community with high quality holders and massive enterprise resources.\n\nCorporate Innovation X Metaverse X Digital Transformation.\n\nMore than 95% are CEO or senior level managers across digital and traditional industries. In the future, more metaverse and NFT developments will occur to create the first Social DAO with metaverse industry consensus and incubate MetaStar for future impact.\""
+          "content": "\"LIONDAO NFT\n\nTaiwan’s very first metaverse enterprise community with high quality holders and massive enterprise resources.\n\nCorporate Innovation X Metaverse X Digital Transformation.\n\nMore than 95% are CEO or senior level managers across digital and traditional industries. In the future, additional metaverse and NFT developments will occur to create the first Social DAO with metaverse industry consensus and incubate MetaStar for future impact.\""
         },
         {
           "icon": "/images/icon-crawl.svg",
-          "content": "Establish an enterprise metaverse college for, drive cross-industry AMA exchanges and transformation, promote NFT application landings and interdisciplinary collaborations to maximize the landings of NFT applications! Build an enterprise community with consensus and influence.\""
+          "content": "\"Establish an enterprise metaverse college for driving cross-industry AMA exchanges and transformations, promote NFT application landings and interdisciplinary collaborations to maximize the landings of NFT applications! Build an enterprise community with consensus and influence.\""
         },
         {
           "icon": "/images/icon-crawl.svg",
@@ -77,7 +77,7 @@
           "title": "Founder",
           "image": "/images/Team/Ken.jpg",
           "cover": "/images/Team/Ken.jpg",
-          "content": "・Founder of SSTrade\n・Founder of Withheart Capital\n・NFT Evangelist"
+          "content": "・Founder of SSTrade\n・Founder of Idealism Capital\n・NFT Evangelist"
         },
         {
           "name": "James C.F. Huang",
@@ -136,10 +136,10 @@
           "content": "・Presiding Attorney/Director of Chien Yeh Law Offices\n・Consultant for General Chamber of Commerce of the Republic of China\n・Legal advisory committee of the National Immigration Agency, Ministry of the Interior\n・Legal advisor of Penghu County Government Research project organizer of Taiwan Power Company"
         }
       ],
-      "banner": "\"Establish the limitless imagination within the metaverse into the new future!\nNew Future, new MetaStar.\"",
+      "banner": "\"Allow the limitless imagination of the metaverse to become the future!\nNew Future, new MetaStar.\"",
       "mint": {
         "title": "mint liondao nft",
-        "description": "Establish the limitless imagination within the metaverse into the new future!\nNew Future, new MetaStar.",
+        "description": "Allow the limitless imagination of the metaverse to become the future!\nNew Future, new MetaStar.",
         "price": "0.8",
         "photo": "/images/mint.png",
         "hint": "Demo：Integrate enterprise and product NFT"
