@@ -86,7 +86,7 @@ const StorySection = () => {
             </StoryItem>
           ) }
         </Carousel>
-        <img className="wall" src="/images/story-wall.png" alt="" />
+        <img className="wall" src="" alt="" />
       </StoryCarousel>
     </Root>
   )
