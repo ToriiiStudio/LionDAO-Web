@@ -25,11 +25,6 @@ const HomePage = () => {
       <SocialSection />
       <MintButton to="/?to=mint">{ wording.mint_button }</MintButton>
       <Company>{ wording.side }</Company>
-      <SocialBar>
-        { wording.social.map((item, i) =>
-          <SocialItem key={i} icon={item.icon} href={item.link} target="_blank" />
-        ) }
-      </SocialBar>
     </Root>
   )
 }
@@ -81,56 +76,6 @@ const Company = styled.div`
   font-size: 16px;
   ${respondTo.md} {
     display: none;
-  }
-`
-
-const SocialBar = styled.div`
-  position: fixed;
-  top: 50%;
-  right: 12px;
-  display: flex;
-  flex-direction: column;
-  padding: 50px 0;
-  color: ${colors.green};
-  font-size: 16px;
-  transform: translateY(-50%);
-  a + a {
-    margin-top: 26px;
-  }
-  &:before, &:after {
-    content: "";
-    position: absolute;
-    left: 50%;
-    width: 1px;
-    height: 30px;
-    background-color: ${colors.green};
-  }
-  &:before {
-    bottom: 100%;
-  }
-  &:after {
-    top: 100%;
-  }
-  ${respondTo.md} {
-    position: relative;
-    right: auto;
-    transform: none;
-    flex-direction: row;
-    justify-content: center;
-    background-color: ${colors.green};
-    padding: 60px 0;
-    a {
-      width: 30px;
-      color: ${colors.mainColor};
-    }
-
-    &:before, &:after {
-      content: none;
-    }
-    > a + a {
-      margin: 0;
-      margin-left: 30px;
-    }
   }
 `
 
