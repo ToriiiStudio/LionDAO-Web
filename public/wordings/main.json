@@ -13,9 +13,9 @@
       "heading": {
         "social": [
           { "icon": "Opensea", "link": "https://opensea.io/collection/lion-dao" },
-          { "icon": "Discord", "link": "https://www.liondaonft.com/" },
-          { "icon": "Twitter", "link": "https://www.liondaonft.com/" },
-          { "icon": "Facebook", "link": "https://www.liondaonft.com/" }
+          { "icon": "Discord", "link": "https://discord.gg/liondao" },
+          { "icon": "Twitter", "link": "https://twitter.com/liondaonft" },
+          { "icon": "Instagram", "link": "https://www.instagram.com/liondaometa/" }
         ]
       },
       "intro":  [
@@ -53,87 +53,220 @@
       "team": [
         {
           "name": "Boss Lee",
-          "title": "Founder",
-          "image": "/images/Team/南姐.jpg",
-          "cover": "/images/Team/南姐.jpg",
-          "content": "・Enterprise PR crisis management and marketing strategy\n・Chief Consultant\n・Senior mediaperson in Taiwan\n・Strategic Investment Consultant, Media and Broadcasting Industry Transformation"
+          "title": "創辦人",
+          "image": "/images/Team/1.jpg",
+          "cover": "/images/Team/1.jpg",
+          "content": "・企業公關危機處理與營銷戰略\n・首席顧問\n・台灣資深媒體人\n・媒體與影視產業轉型 策略投資顧問"
         },
         {
           "name": "Hans Chen",
-          "title": "Founder",
-          "image": "/images/Team/Hans.jpg",
-          "cover": "/images/Team/Hans.jpg",
-          "content": "・CEO of Guolea\n・Chief Consultant for interdisciplinary brand counseling and strategic application of blockchain\n・Known as “Brand Doctor” within the industry"
+          "title": "創辦人",
+          "image": "/images/Team/2.jpg",
+          "cover": "/images/Team/2.jpg",
+          "content": "・果俐文創 CEO\n・跨域品牌輔導與區塊鏈策略應用首席顧問\n・業界有「品牌醫生」之稱"
         },
         {
           "name": "Lionel Chiang",
-          "title": "Founder",
-          "image": "/images/Team/建良.jpg",
-          "cover": "/images/Team/建良.jpg",
-          "content": "・Chief Consultant of Strategic Development in the Blockchain Industry\n・Industrialist managing businesses across industries"
+          "title": "創辦人",
+          "image": "/images/Team/3.jpg",
+          "cover": "/images/Team/3.jpg",
+          "content": "・區塊鏈產業策略發展首席顧問\n・跨產業企業經營實業家"
         },
         {
-          "name": "Kenneth Kuo",
-          "title": "Founder",
-          "image": "/images/Team/Ken.jpg",
-          "cover": "/images/Team/Ken.jpg",
-          "content": "・Founder of SSTrade\n・Founder of Idealism Capital\n・NFT Evangelist"
+          "name": "Kenneth Kao",
+          "title": "創辦人",
+          "image": "/images/Team/4.jpg",
+          "cover": "/images/Team/4.jpg",
+          "content": "・時事交易創辦人\n・唯心資本創辦人\n・NFT 佈道者"
         },
         {
+          "name": "Ben Yen",
+          "title": "Team",
+          "image": "/images/Team/5.jpg",
+          "cover": "/images/Team/5.jpg",
+          "content": "Brand/IP licensing and access development"
+        },
+        {
+          "name": "Carol Tzeng",
+          "title": "Team",
+          "image": "/images/Team/6.jpg",
+          "cover": "/images/Team/6.jpg",
+          "content": "Media and international community management"
+        },
+        {
+          "name": "Wang Jen",
+          "title": "Team",
+          "image": "/images/Team/7.jpg",
+          "cover": "/images/Team/7.jpg",
+          "content": "Avant-garde visual artist"
+        },
+        {
+          "name": "Alison Chen",
+          "title": "Team",
+          "image": "/images/Team/8.jpg",
+          "cover": "/images/Team/8.jpg",
+          "content": "Management of crypto and Discord communities"
+        },		
+		{
           "name": "James C.F. Huang",
           "title": "MetaLion",
-          "image": "/images/Team/黃志芳.jpg",
-          "cover": "/images/Team/黃志芳.jpg",
-          "content": "・Chairman of Taiwan External Trade Development Council (TAITRA)"
+          "image": "/images/Team/11.jpg",
+          "cover": "/images/Team/11.jpg",
+          "content": "・外貿協會 TAITRA 董事長"
         },
         {
           "name": "Simon Koh",
           "title": "MetaLion",
-          "image": "/images/Team/高端訓.jpg",
-          "cover": "/images/Team/高端訓.jpg",
-          "content": "・Founder of AMT Asia-Pacific Martech Transformation Alliance Association\n・Founder of Big Data Play Brand\n・Chief Consultant of Big Data Brands at Leo Burnett\n・Brand Director of Brand Accelerator at General Chamber of Commerce of the Republic of China\n・Brand General Manager at Wowprime (12 years)\n・Head of Business and Planning at Ogilvy (12 years)"
+          "image": "/images/Team/12.jpg",
+          "cover": "/images/Team/12.jpg",
+          "content": "・AMT 亞太行銷數位轉型聯盟協會 創辦人\n・大數據熱品牌創新中心 創辦人\n・李奧貝納大數據品牌 首席顧問\n・商業總會品牌加速中心 品牌長\n・王品集團 品牌總經理(12年)\n・奧美集團 業務企劃總監(12年)"
         },
         {
           "name": "Maclin",
           "title": "MetaLion",
-          "image": "/images/Team/Maclin.jpg",
-          "cover": "/images/Team/Maclin.jpg",
-          "content": "・General Manager of Six Star Gears - Yieh Chen Machinery Co., Ltd\n・General Manager of Allstar Precision Machinery Co., Ltd\n・Ombudsman of King Ray Yeng Industry Co., Ltd\n・2019-2020 Zone Director of zone 3642 for Rotary International"
+          "image": "/images/Team/13.jpg",
+          "cover": "/images/Team/13.jpg",
+          "content": "・六星集團-羿晨機械股份有限公司 總經理\n・六羿精密科技股份有限公司 總經理\n・金瑞瑩工業股份有限公司 監察人\n・國際扶輪 3462 地區 2019-20年度地區總監"
         },
         {
           "name": "Eason Huang",
           "title": "MetaLion",
-          "image": "/images/Team/黃義升.jpg",
-          "cover": "/images/Team/黃義升.jpg",
-          "content": "・Director and co-founder of LaMorning Co., Ltd\n・Founding president of Pingtung Head Manager Alliance\n・9th Managing Director of Association of Chain and Franchise Promotion, Taiwan\n・4th President of Association of Chain and Franchise Promotion, Taiwan, Kaohsiung Branch"
+          "image": "/images/Team/14.jpg",
+          "cover": "/images/Team/14.jpg",
+          "content": "・晨間廚房餐飲有限公司共同創辦人暨總監\n・屏東縣大店長聯盟創會會長\n・台灣連鎖加盟促進協會第九屆常務理事\n・台灣連鎖加盟促進協會高雄分會第四屆會長"
         },
         {
           "name": "David Pan",
           "title": "MetaLion",
-          "image": "/images/Team/David Pan.jpg",
-          "cover": "/images/Team/David Pan.jpg",
-          "content": "・Founder of Ace Exchange\n・Founder of ABA Asia Blockchain Accelerator\n・Founder of Lead Capital, Singapore"
+          "image": "/images/Team/15.jpg",
+          "cover": "/images/Team/15.jpg",
+          "content": "・ACE 王牌數位資產交易所創辦人\n・ABA 亞洲區塊鏈加速器創辦人\n・Lead Capital 新加坡領先資本創辦人"
         },
         {
           "name": "Toriii Studio",
           "title": "MetaLion",
-          "image": "/images/Team/Toriii.jpg",
-          "cover": "/images/Team/Toriii.jpg",
-          "content": "・Professional development team for NFT technologies\n・Responsible for connecting the front/back end, metadata generation, and customization design of smart contracts\n・Provides low gas contracts and technical support for security audits"
+          "image": "/images/Team/16.jpg",
+          "cover": "/images/Team/16.jpg",
+          "content": "・NFT 專業技術開發團隊\n・前、後端串接、Metadata 生成與智能合約客製化設計\n・提供 Low Gas 合約與安全審計技術支援"
         },
         {
           "name": "Alphashark club",
           "title": "MetaLion",
-          "image": "/images/Team/鯊魚.jpg",
-          "cover": "/images/Team/鯊魚.jpg",
-          "content": "・Asia’s top NFT ALPHA community"
+          "image": "/images/Team/17.jpg",
+          "cover": "/images/Team/17.jpg",
+          "content": "・亞洲 NFT 頂尖 ALPHA 社群"
         },
         {
           "name": "Michael Wang",
           "title": "MetaLion",
-          "image": "/images/Team/王晨桓.jpg",
-          "cover": "/images/Team/王晨桓.jpg",
-          "content": "・Presiding Attorney/Director of Chien Yeh Law Offices\n・Consultant for General Chamber of Commerce of the Republic of China\n・Legal advisory committee of the National Immigration Agency, Ministry of the Interior\n・Legal advisor of Penghu County Government Research project organizer of Taiwan Power Company"
+          "image": "/images/Team/18.jpg",
+          "cover": "/images/Team/18.jpg",
+          "content": "・建業法律事務所 主持律師/所長\n・全國商業總會會務顧問\n・內政部移民署法規諮詢委員\n・澎湖縣政府法律顧問\n・台灣電力公司研究計畫主持人"
+        },
+        {
+          "name": "Gary Liu",
+          "title": "MetaLion",
+          "image": "/images/Team/19.jpg",
+          "cover": "/images/Team/19.jpg",
+          "content": "・星生技股份有限公司 \n・星媺診所創辦人"
+        },
+        {
+          "name": "Anna Lin",
+          "title": "MetaLion",
+          "image": "/images/Team/20.jpg",
+          "cover": "/images/Team/20.jpg",
+          "content": "・東京著衣品牌執行長"
+        },
+        {
+          "name": "Rick Mao",
+          "title": "MetaLion",
+          "image": "/images/Team/21.jpg",
+          "cover": "/images/Team/21.jpg",
+          "content": "・新光三越 SKM Park 總經理(現職)\n・TOC Consulting Limited 招商副總裁/台灣總經理(現職)\n・香港希慎興業有限公司投資與開發部 總經理"
+        },
+        {
+          "name": "Jennifer Shen",
+          "title": "MetaLion",
+          "image": "/images/Team/22.jpg",
+          "cover": "/images/Team/22.jpg",
+          "content": "・「13座金鐘獎 紀錄保持人」\n1.台灣大眾票選最具專業形象以及最受歡迎的新聞主播。\n2.曾任中視晩間新聞主播達22年\n3.「沈春華Life Show」「從台灣看全球」「沈春華新聞會客室」節目主持人\n4.現任LiveABC互動英語交學集團 董事\n5.現任IC之音「春風華語 聚焦台灣」主持人\n6.現任Podcast 「沈春華我們脫殼Women’s Talk 」主持人"
+        },
+        {
+          "name": "Henry Yen",
+          "title": "MetaLion",
+          "image": "/images/Team/23.jpg",
+          "cover": "/images/Team/23.jpg",
+          "content": "・Potato Media CEO/CTO"
+        },
+        {
+          "name": "Henry Sun",
+          "title": "MetaLion",
+          "image": "/images/Team/24.jpg",
+          "cover": "/images/Team/24.jpg",
+          "content": "・肚肚創辦人&執行長"
+        },
+        {
+          "name": "JianHong Guo",
+          "title": "MetaLion",
+          "image": "/images/Team/28.jpg",
+          "cover": "/images/Team/28.jpg",
+          "content": "・台灣傳播界「電視皇帝」\n・映畫傳播事業股份有限公司 創辦人兼董事長"
+        },
+        {
+          "name": "Unme Xie",
+          "title": "MetaLion",
+          "image": "/images/Team/30.jpg",
+          "cover": "/images/Team/30.jpg",
+          "content": "・「MIT書包大王」\n・UNME兒童書包品牌創辦人"
+        },
+        {
+          "name": "K.T.Hao",
+          "title": "MetaLion",
+          "image": "/images/Team/31.jpg",
+          "cover": "/images/Team/31.jpg",
+          "content": "・「台灣與國際繪本界接軌的推手」\n・格林文化事業股份有限公司 發行人\n・城邦文化藝術基金會 董事長"
+        },
+        {
+          "name": "Tony Huang",
+          "title": "MetaLion",
+          "image": "/images/Team/32.jpg",
+          "cover": "/images/Team/32.jpg",
+          "content": "・「臺灣的一家唱片公司」\n・豐華唱片股份有限公司 董事長"
+        },
+        {
+          "name": "Kunlian Wang",
+          "title": "MetaLion",
+          "image": "/images/Team/33.jpg",
+          "cover": "/images/Team/33.jpg",
+          "content": "・「台灣日月潭紅茶第一品牌」\n・喝喝茶HOHOCHA 董事長"
+        },
+        {
+          "name": "Ray Wang",
+          "title": "MetaLion",
+          "image": "/images/Team/34.jpg",
+          "cover": "/images/Team/34.jpg",
+          "content": "1.淳紳(上櫃 2642) 股份有限公司 總經理\n 2.明水生活科技股份有限公司 董事長\n 3.南臺灣美國商會行政副會長"
+        },
+        {
+          "name": "Andy Jiang",
+          "title": "MetaLion",
+          "image": "/images/Team/35.jpg",
+          "cover": "/images/Team/35.jpg",
+          "content": "・OOPS 創潮玩圈﻿ 創辦人"
+        },
+        {
+          "name": "Dao Dao",
+          "title": "MetaLion",
+          "image": "/images/Team/36.jpg",
+          "cover": "/images/Team/36.jpg",
+          "content": "・「幣圈女神」\n1.台灣前10大知識型YouTuber\n2.閱部客yuubuke創辦人\n3.擅長 DeFi / GameFi / NFT\n4.ReneVerse 創辦人\n5.Knife Guild Games 創辦人\n6.GameFi投資平台-共同創辦人\n7.幣安全球前100大合作NFT創作者\n8.區塊鏈GameFi講師"
+        },
+        {
+          "name": "Pan Chih Chiang",
+          "title": "MetaLion",
+          "image": "/images/Team/37.jpg",
+          "cover": "/images/Team/37.jpg",
+          "content": "・「國際命理大師」\n1.IOPCA國際命理師、國際催眠師\n2.國際獅子會300D2總監區理事\n3.環境地理發展委員會主席\n4.國際獅子會300D2區禮遇獅子會 會長"
         }
       ],
       "banner": "\"Allow the limitless imagination of the metaverse to become the future!\nNew Future, new MetaStar.\"",
@@ -146,9 +279,9 @@
       },
       "social": [
         { "icon": "Opensea", "link": "https://opensea.io/collection/lion-dao" },
-        { "icon": "Discord", "link": "https://www.liondaonft.com/" },
-        { "icon": "Twitter", "link": "https://www.liondaonft.com/" },
-        { "icon": "Facebook", "link": "https://www.liondaonft.com/" }
+        { "icon": "Discord", "link": "https://discord.gg/liondao" },
+        { "icon": "Twitter", "link": "https://twitter.com/liondaonft" },
+        { "icon": "Instagram", "link": "https://www.instagram.com/liondaometa/" }
       ],
       "mint_button": "MINT LIONDAO NFT"
     },
@@ -170,9 +303,9 @@
       "heading": {
         "social": [
           { "icon": "Opensea", "link": "https://opensea.io/collection/lion-dao" },
-          { "icon": "Discord", "link": "https://www.liondaonft.com/" },
-          { "icon": "Twitter", "link": "https://www.liondaonft.com/" },
-          { "icon": "Facebook", "link": "https://www.liondaonft.com/" }
+          { "icon": "Discord", "link": "https://discord.gg/liondao" },
+          { "icon": "Twitter", "link": "https://twitter.com/liondaonft" },
+          { "icon": "Instagram", "link": "https://www.instagram.com/liondaometa/" }
         ]
       },
       "intro":  [
@@ -211,8 +344,8 @@
         {
           "name": "Boss Lee",
           "title": "創辦人",
-          "image": "/images/Team/南姐.jpg",
-          "cover": "/images/Team/南姐.jpg",
+          "image": "/images/Team/1.jpg",
+          "cover": "/images/Team/1.jpg",
           "content": "・企業公關危機處理與營銷戰略\n・首席顧問\n・台灣資深媒體人\n・媒體與影視產業轉型 策略投資顧問"
         },
         {
@@ -303,9 +436,9 @@
       },
       "social": [
         { "icon": "Opensea", "link": "https://opensea.io/collection/lion-dao" },
-        { "icon": "Discord", "link": "https://www.liondaonft.com/" },
-        { "icon": "Twitter", "link": "https://www.liondaonft.com/" },
-        { "icon": "Facebook", "link": "https://www.liondaonft.com/" }
+        { "icon": "Discord", "link": "https://discord.gg/liondao" },
+        { "icon": "Twitter", "link": "https://twitter.com/liondaonft" },
+        { "icon": "Instagram", "link": "https://www.instagram.com/liondaometa/" }
       ],
       "mint_button": "MINT LIONDAO NFT"
     },
