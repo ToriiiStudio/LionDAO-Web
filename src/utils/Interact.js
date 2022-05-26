@@ -164,7 +164,7 @@ export const whitelistNFT = async (amount, chain) => {
       const transactionParameters = {
         to: contractAddress, // Required except during contract publications.
         from: window.ethereum.selectedAddress, // must match user's active address.
-        value: ethers.utils.hexlify(ethers.utils.parseEther((parseInt(amount)*0.8).toString())).slice(2).replace(/^0+/, ''),
+        value: ethers.utils.hexlify(ethers.utils.parseEther((parseInt(amount)*1).toString())).slice(2).replace(/^0+/, ''),
         data: NFTContract.methods
           .mintWhitelistLion(parseInt(amount), parseInt(signature.body.maxNum), signature.body.signature)
           .encodeABI(),
