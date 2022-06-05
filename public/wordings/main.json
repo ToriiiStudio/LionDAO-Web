@@ -101,6 +101,13 @@
           "content": "Avant-garde visual artist"
         },
         {
+          "name": "Anna Lin",
+          "title": "Team",
+          "image": "/images/Team/20.jpg",
+          "cover": "/images/Team/20.jpg",
+          "content": "・YOCO Collection CEO"
+        },
+        {
           "name": "Alison Chen",
           "title": "Team",
           "image": "/images/Team/8.jpg",
@@ -169,13 +176,6 @@
           "image": "/images/Team/19.jpg",
           "cover": "/images/Team/19.jpg",
           "content": "・XING Biotechnology Co., Ltd.\n・Star Mei Medical Beauty Clinic Founder "
-        },
-        {
-          "name": "Anna Lin",
-          "title": "MetaLion",
-          "image": "/images/Team/20.jpg",
-          "cover": "/images/Team/20.jpg",
-          "content": "・YOCO Collection CEO"
         },
         {
           "name": "Rick Mao",
@@ -403,6 +403,13 @@
           "image": "/images/Team/8.jpg",
           "cover": "/images/Team/8.jpg",
           "content": "・幣圈與DC社群經營"
+        },
+        {
+          "name": "Anna Lin",
+          "title": "團隊成員",
+          "image": "/images/Team/20.jpg",
+          "cover": "/images/Team/20.jpg",
+          "content": "・東京著衣品牌執行長"
         },		
 		    {
           "name": "James C.F. Huang",
@@ -466,13 +473,6 @@
           "image": "/images/Team/19.jpg",
           "cover": "/images/Team/19.jpg",
           "content": "・星生技股份有限公司 \n・星媺診所創辦人"
-        },
-        {
-          "name": "Anna Lin",
-          "title": "MetaLion",
-          "image": "/images/Team/20.jpg",
-          "cover": "/images/Team/20.jpg",
-          "content": "・東京著衣品牌執行長"
         },
         {
           "name": "Rick Mao",
