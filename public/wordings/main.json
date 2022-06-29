@@ -285,6 +285,7 @@
         "hint": "Demo：Integrate enterprise and product NFT"
       },
       "social": [
+        { "icon": "Chaebol", "link": "https://www.chaebol.art/welcome" },
         { "icon": "Opensea", "link": "https://opensea.io/collection/lion-dao" },
         { "icon": "Discord", "link": "https://discord.gg/liondao" },
         { "icon": "Twitter", "link": "https://twitter.com/liondaonft" },

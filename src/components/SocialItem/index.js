@@ -2,12 +2,13 @@ import React from 'react';
 import styled from 'styled-components';
 import { colors } from '../../constants/colors';
 import { respondTo } from '../../utils/responsive';
-import { Twitter, Instagram, Discord, Opensea } from '../../components/Icons';
+import { Twitter, Instagram, Discord, Opensea, Chaebol } from '../../components/Icons';
 
 const SocialItem = ({icon, children, ...props}) => {
   return (
     <Item {...props}>
       { children }
+      { icon === 'Chaebol' && <Chaebol /> }
       { icon === 'Twitter' && <Twitter /> }
       { icon === 'Instagram' && <Instagram /> }
       { icon === 'Discord' && <Discord /> }
