@@ -336,11 +336,13 @@
       "mint": {
         "title": "mint liondao nft",
         "description": "Allow the limitless imagination of the metaverse to become the future!\nNew Future, new MetaStar.",
-        "price": "1",
+        "price": "2",
         "photo": "/images/mint.png",
         "hint": "Demo：Integrate enterprise and product NFT"
       },
       "social": [
+        { "icon": "Potatomedia", "link": "https://www.potatomedia.co/user/31b7801a-a463-46b6-8ebd-1df0d398f9c1/status" },
+        { "icon": "Chaebol", "link": "https://www.chaebol.art/welcome" },
         { "icon": "Opensea", "link": "https://opensea.io/collection/lion-dao" },
         { "icon": "Discord", "link": "https://discord.gg/liondao" },
         { "icon": "Twitter", "link": "https://twitter.com/liondaonft" },
@@ -689,7 +691,7 @@
       "mint": {
         "title": "mint liondao nft",
         "description": "讓元宇宙的無限想像，成為新未來！\nNew Future, new MetaStar.",
-        "price": "1",
+        "price": "2",
         "photo": "/images/mint.png",
         "hint": "Demo：Integrate enterprise and product NFT"
       },
