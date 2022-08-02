@@ -113,8 +113,15 @@
           "image": "/images/Team/8.jpg",
           "cover": "/images/Team/8.jpg",
           "content": "Management of crypto and Discord communities"
+        },	
+        {
+          "name": "HY Lin",
+          "title": "Team",
+          "image": "/images/Team/9.jpg",
+          "cover": "/images/Team/9.jpg",
+          "content": "・Quantitative Trading\n・Cryptocurrency Market Analysis\n・Macroeconomic Observations"
         },		
-		{
+		    {
           "name": "James C.F. Huang",
           "title": "MetaLion",
           "image": "/images/Team/11.jpg",
@@ -330,7 +337,36 @@
           "image": "/images/Team/46.jpg",
           "cover": "/images/Team/46.jpg",
           "content": "・Co-founder of Demiverse Studio\n・Co-founder of Taiwan DAO"
+        },
+        {
+          "name": "James Cheng",
+          "title": "MetaLion",
+          "image": "/images/Team/47.jpg",
+          "cover": "/images/Team/47.jpg",
+          "content": "・Founder of RichFish Investment\n・Director of Asia Blockchain Accelerator\n・Head of Investor Relations at ACE Crypto Assets Management Group\n・Executive Assistant to the Chairman of Era Group Chiu Fu-Sheng"
+        },
+        {
+          "name": "Berry Liao",
+          "title": "MetaLion",
+          "image": "/images/Team/48.jpg",
+          "cover": "/images/Team/48.jpg",
+          "content": "・A Share Hotel & Muen Hotel Group General Manager\n・Cryptonews.com.tw Brand CEO\n・Self-Media Uncleberry01"
+        },
+        {
+          "name": "Ni-Jyun Ji",
+          "title": "MetaLion",
+          "image": "/images/Team/49.jpg",
+          "cover": "/images/Team/49.jpg",
+          "content": "・Outsider Film Co., Ltd., Director"
+        },
+        {
+          "name": "Fang-Ren Jheng",
+          "title": "MetaLion",
+          "image": "/images/Team/50.jpg",
+          "cover": "/images/Team/50.jpg",
+          "content": "・Outsider Film Co., Ltd.,  Producer"
         }
+        
       ],
       "banner": "\"Allow the limitless imagination of the metaverse to become the future!\nNew Future, new MetaStar.\"",
       "mint": {
@@ -462,6 +498,13 @@
           "cover": "/images/Team/8.jpg",
           "content": "・幣圈與DC社群經營"
         },
+        {
+          "name": "HY Lin",
+          "title": "團隊成員",
+          "image": "/images/Team/9.jpg",
+          "cover": "/images/Team/9.jpg",
+          "content": "・量化交易操盤手\n・加密貨幣市場分析\n・整體經濟學觀察家"
+        },		
         {
           "name": "Anna Lin",
           "title": "團隊成員",
@@ -685,6 +728,34 @@
           "image": "/images/Team/46.jpg",
           "cover": "/images/Team/46.jpg",
           "content": "・Co-founder of Demiverse Studio\n・Co-founder of Taiwan DAO"
+        },
+        {
+          "name": "James Cheng",
+          "title": "MetaLion",
+          "image": "/images/Team/47.jpg",
+          "cover": "/images/Team/47.jpg",
+          "content": "・洰苙投資股份有限公司 創辦人\n・亞洲區塊鏈加速器 總監\n・ACE Crypto Assets Management Group 投資人關係長\n・年代集團邱復生 董事長特別助理"
+        },
+        {
+          "name": "Berry Liao",
+          "title": "MetaLion",
+          "image": "/images/Team/48.jpg",
+          "cover": "/images/Team/48.jpg",
+          "content": "・艾玹爾飯店集團 /沐恩溫泉飯店總經理\n・區塊鏈新手網站-加密森林品牌執行長\n・自媒體 貝瑞大叔的加密貨幣世界"
+        },
+        {
+          "name": "Ni-Jyun Ji",
+          "title": "MetaLion",
+          "image": "/images/Team/49.jpg",
+          "cover": "/images/Team/49.jpg",
+          "content": "・灰人文化傳媒有限公司總導演"
+        },
+        {
+          "name": "Fang-Ren Jheng",
+          "title": "MetaLion",
+          "image": "/images/Team/50.jpg",
+          "cover": "/images/Team/50.jpg",
+          "content": "・灰人文化傳媒有限公司製作人"
         }
       ],
       "banner": "\"讓元宇宙的無限想像，成為新未來！\"",
