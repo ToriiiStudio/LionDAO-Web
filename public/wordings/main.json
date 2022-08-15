@@ -120,6 +120,13 @@
           "image": "/images/Team/9.jpg",
           "cover": "/images/Team/9.jpg",
           "content": "・Quantitative Trading\n・Cryptocurrency Market Analysis\n・Macroeconomic Observations"
+        },
+        {
+          "name": "Frank Fu",
+          "title": "Team",
+          "image": "/images/Team/17.jpg",
+          "cover": "/images/Team/17.jpg",
+          "content": "・Community relationship management"
         },		
 		    {
           "name": "James C.F. Huang",
@@ -162,13 +169,6 @@
           "image": "/images/Team/16.jpg",
           "cover": "/images/Team/16.jpg",
           "content": "・Professional development team for NFT technologies\n・Responsible for connecting the front/back end, metadata generation, and customization design of smart contracts\n・Provides low gas contracts and technical support for security audits"
-        },
-        {
-          "name": "Alphashark club",
-          "title": "MetaLion",
-          "image": "/images/Team/17.jpg",
-          "cover": "/images/Team/17.jpg",
-          "content": "・Asia’s top NFT ALPHA community"
         },
         {
           "name": "Michael Wang",
@@ -492,6 +492,13 @@
           "content": "・大膽前衛的視覺藝術家"
         },
         {
+          "name": "Anna Lin",
+          "title": "團隊成員",
+          "image": "/images/Team/20.jpg",
+          "cover": "/images/Team/20.jpg",
+          "content": "・東京著衣品牌執行長"
+        },	
+        {
           "name": "Alison Chen",
           "title": "團隊成員",
           "image": "/images/Team/8.jpg",
@@ -504,13 +511,13 @@
           "image": "/images/Team/9.jpg",
           "cover": "/images/Team/9.jpg",
           "content": "・量化交易操盤手\n・加密貨幣市場分析\n・整體經濟學觀察家"
-        },		
+        },	
         {
-          "name": "Anna Lin",
+          "name": "Frank Fu",
           "title": "團隊成員",
-          "image": "/images/Team/20.jpg",
-          "cover": "/images/Team/20.jpg",
-          "content": "・東京著衣品牌執行長"
+          "image": "/images/Team/17.jpg",
+          "cover": "/images/Team/17.jpg",
+          "content": "・社群關係管理"
         },		
 		    {
           "name": "James C.F. Huang",
@@ -553,13 +560,6 @@
           "image": "/images/Team/16.jpg",
           "cover": "/images/Team/16.jpg",
           "content": "・NFT 專業技術開發團隊\n・前、後端串接、Metadata 生成與智能合約客製化設計\n・提供 Low Gas 合約與安全審計技術支援"
-        },
-        {
-          "name": "Alphashark club",
-          "title": "MetaLion",
-          "image": "/images/Team/17.jpg",
-          "cover": "/images/Team/17.jpg",
-          "content": "・亞洲 NFT 頂尖 ALPHA 社群"
         },
         {
           "name": "Michael Wang",
@@ -767,6 +767,8 @@
         "hint": "Demo：Integrate enterprise and product NFT"
       },
       "social": [
+        { "icon": "Potatomedia", "link": "https://www.potatomedia.co/user/31b7801a-a463-46b6-8ebd-1df0d398f9c1/status" },
+        { "icon": "Chaebol", "link": "https://www.chaebol.art/welcome" },
         { "icon": "Opensea", "link": "https://opensea.io/collection/lion-dao" },
         { "icon": "Discord", "link": "https://discord.gg/cy3HNnSt8b" },
         { "icon": "Twitter", "link": "https://twitter.com/liondaonft" },
