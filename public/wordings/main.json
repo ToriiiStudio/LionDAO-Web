@@ -365,6 +365,34 @@
           "image": "/images/Team/50.jpg",
           "cover": "/images/Team/50.jpg",
           "content": "・Outsider Film Co., Ltd.,  Producer"
+        },
+        {
+          "name": "Susanoo Kao",
+          "title": "MetaLion",
+          "image": "/images/Team/51.jpg",
+          "cover": "/images/Team/51.jpg",
+          "content": "・Katana N’ Samurai Co-Founder\n・Tsukuyomi Infinite Co-Founder"
+        },
+        {
+          "name": "Wei-Shun Liao",
+          "title": "MetaLion",
+          "image": "/images/Team/52.jpg",
+          "cover": "/images/Team/52.jpg",
+          "content": "・Super Taste, Editor-in-Chief"
+        },
+        {
+          "name": "Cing-Cuan Zeng",
+          "title": "MetaLion",
+          "image": "/images/Team/53.jpg",
+          "cover": "/images/Team/53.jpg",
+          "content": "・Janfusun Resort Hotel, General manager"
+        },
+        {
+          "name": "Yi-Sian You",
+          "title": "MetaLion",
+          "image": "/images/Team/54.jpg",
+          "cover": "/images/Team/54.jpg",
+          "content": "・Janfusun Resort Hotel, Chairman"
         }
         
       ],
@@ -756,7 +784,36 @@
           "image": "/images/Team/50.jpg",
           "cover": "/images/Team/50.jpg",
           "content": "・灰人文化傳媒有限公司製作人"
+        },
+        {
+          "name": "Susanoo Kao",
+          "title": "MetaLion",
+          "image": "/images/Team/51.jpg",
+          "cover": "/images/Team/51.jpg",
+          "content": "・Katana N’ Samurai 共同創辦人\n・無限月讀共同創辦人"
+        },
+        {
+          "name": "Wei-Shun Liao",
+          "title": "MetaLion",
+          "image": "/images/Team/52.jpg",
+          "cover": "/images/Team/52.jpg",
+          "content": "・食尚玩家總編輯"
+        },
+        {
+          "name": "Cing-Cuan Zeng",
+          "title": "MetaLion",
+          "image": "/images/Team/53.jpg",
+          "cover": "/images/Team/53.jpg",
+          "content": "・劍湖山渡假大飯店總經理"
+        },
+        {
+          "name": "Yi-Sian You",
+          "title": "MetaLion",
+          "image": "/images/Team/54.jpg",
+          "cover": "/images/Team/54.jpg",
+          "content": "・劍湖山渡假大飯店董事長"
         }
+
       ],
       "banner": "\"讓元宇宙的無限想像，成為新未來！\"",
       "mint": {
