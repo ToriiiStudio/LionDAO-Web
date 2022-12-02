@@ -108,6 +108,13 @@
           "content": "・YOCO Collection CEO"
         },
         {
+          "name": "Dennis Lee",
+          "title": "Team",
+          "image": "/images/Team/55.jpg",
+          "cover": "/images/Team/55.jpg",
+          "content": "・Chairman of Gabriel Investment Holdings Co., Ltd., Seychelles\n・Director of Capital Link Fintech Co., Ltd.\n・Chief Investment Officer of Capital Link Angel Capital\n・Supervisor of Digital Governance Association\n・Assistant Dean of Blockchain Application and Development Institute of General Chamber of Commerce, R.O.C\n・Director Head of Capitalization of General Chamber of Commerce, R.O.C"
+        },
+        {
           "name": "Alison Chen",
           "title": "Team",
           "image": "/images/Team/8.jpg",
@@ -395,13 +402,6 @@
           "content": "・Janfusun Resort Hotel, Chairman"
         },
         {
-          "name": "Dennis Lee",
-          "title": "MetaLion",
-          "image": "/images/Team/55.jpg",
-          "cover": "/images/Team/55.jpg",
-          "content": "・Chairman of Gabriel Investment Holdings Co., Ltd., Seychelles\n・Director of Capital Link Fintech Co., Ltd.\n・Chief Investment Officer of Capital Link Angel Capital\n・Supervisor of Digital Governance Association\n・Assistant Dean of Blockchain Application and Development Institute of General Chamber of Commerce, R.O.C\n・Director Head of Capitalization of General Chamber of Commerce, R.O.C"
-        },
-        {
           "name": "Walter Chang",
           "title": "MetaLion",
           "image": "/images/Team/56.jpg",
@@ -540,6 +540,13 @@
           "cover": "/images/Team/20.jpg",
           "content": "・東京著衣品牌執行長"
         },	
+        {
+          "name": "Dennis Lee",
+          "title": "團隊成員",
+          "image": "/images/Team/55.jpg",
+          "cover": "/images/Team/55.jpg",
+          "content": "・中華民國全國商業總會 品牌創新服務加速中心 資本團長\n・中華民國全國商業總會 區塊鏈應用與發展研究所 副所長\n・資本圈金融科技（股)公司 董事暨執行長\n・資本圈天使投資社群 Capital LINK 創辦人\n・塞席爾商 加百列投資控股有限公司 董事長\n・KBC PARTNERS INVESTMENT PTE LTD.(Singapore) 董事合夥人\n・光動能生物科技（股）公司董事"
+        },
         {
           "name": "Alison Chen",
           "title": "團隊成員",
@@ -826,13 +833,6 @@
           "image": "/images/Team/54.jpg",
           "cover": "/images/Team/54.jpg",
           "content": "・劍湖山渡假大飯店董事長"
-        },
-        {
-          "name": "Dennis Lee",
-          "title": "MetaLion",
-          "image": "/images/Team/55.jpg",
-          "cover": "/images/Team/55.jpg",
-          "content": "・中華民國全國商業總會 品牌創新服務加速中心 資本團長\n・中華民國全國商業總會 區塊鏈應用與發展研究所 副所長\n・資本圈金融科技（股)公司 董事暨執行長\n・資本圈天使投資社群 Capital LINK 創辦人\n・塞席爾商 加百列投資控股有限公司 董事長\n・KBC PARTNERS INVESTMENT PTE LTD.(Singapore) 董事合夥人\n・光動能生物科技（股）公司董事"
         },
         {
           "name": "Walter Chang",
