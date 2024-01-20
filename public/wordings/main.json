@@ -100,13 +100,6 @@
           "cover": "/images/Team/7.jpg",
           "content": "Avant-garde visual artist"
         },
-        // {
-          "name": "Anna Lin",
-          "title": "Team",
-          "image": "/images/Team/20.jpg",
-          "cover": "/images/Team/20.jpg",
-          "content": "・YOCO Collection CEO"
-        // },
         {
           "name": "Dennis Lee",
           "title": "Team",
@@ -163,13 +156,6 @@
           "cover": "/images/Team/14.jpg",
           "content": "・Director and co-founder of LaMorning Co., Ltd\n・Founding president of Pingtung Head Manager Alliance\n・9th Managing Director of Association of Chain and Franchise Promotion, Taiwan\n・4th President of Association of Chain and Franchise Promotion, Taiwan, Kaohsiung Branch"
         },
-        // {
-          // "name": "David Pan",
-          // "title": "MetaLion",
-          // "image": "/images/Team/15.jpg",
-          // "cover": "/images/Team/15.jpg",
-          // "content": "・Founder of Ace Exchange\n・Founder of ABA Asia Blockchain Accelerator\n・Founder of Lead Capital, Singapore"
-        // },
         {
           "name": "Toriii Studio",
           "title": "MetaLion",
@@ -205,13 +191,6 @@
           "cover": "/images/Team/22.jpg",
           "content": "“Winner of 13 Golden Bell Awards”\n・Voted by the Taiwanese public as the most popular news anchor with the most professional image.\n・Held the position of nightly news anchor at CTV for 22 years\n・Winner of 13 Golden Bell Awards\n・Host of “Jennifer Shen Life Show”, “Global Perspective from Taiwan”, and “Jennifer Shen’s Newsroom”\n・Director of interactive English teaching group LiveABC\n・Current host of “Jennifer Shen’s Focus on Taiwan” at Voice of IC\n・Current host of podcast “Jennifer Shen’s Women’s Talk”"
         },
-        // {
-          "name": "Henry Yen",
-          "title": "MetaLion",
-          "image": "/images/Team/23.jpg",
-          "cover": "/images/Team/23.jpg",
-          "content": "・Potato Media CEO/CTO"
-        // },
         {
           "name": "Henry Sun",
           "title": "MetaLion",
@@ -345,13 +324,6 @@
           "cover": "/images/Team/46.jpg",
           "content": "・Co-founder of Demiverse Studio\n・Co-founder of Taiwan DAO"
         },
-        // {
-          // "name": "James Cheng",
-          // "title": "MetaLion",
-          // "image": "/images/Team/47.jpg",
-          // "cover": "/images/Team/47.jpg",
-          // "content": "・Founder of RichFish Investment\n・Director of Asia Blockchain Accelerator\n・Head of Investor Relations at ACE Crypto Assets Management Group\n・Executive Assistant to the Chairman of Era Group Chiu Fu-Sheng"
-        // },
         {
           "name": "Berry Liao",
           "title": "MetaLion",
@@ -419,8 +391,6 @@
         "hint": "Demo：Integrate enterprise and product NFT"
       },
       "social": [
-        // { "icon": "Potatomedia", "link": "https://www.potatomedia.co/user/31b7801a-a463-46b6-8ebd-1df0d398f9c1/status" },
-        // { "icon": "Chaebol", "link": "https://www.chaebol.art/welcome" },
         { "icon": "Opensea", "link": "https://opensea.io/collection/lion-dao" },
         { "icon": "Discord", "link": "https://discord.gg/cy3HNnSt8b" },
         { "icon": "Twitter", "link": "https://twitter.com/liondaonft" },
@@ -533,13 +503,6 @@
           "cover": "/images/Team/7.jpg",
           "content": "・大膽前衛的視覺藝術家"
         },
-        // {
-          "name": "Anna Lin",
-          "title": "團隊成員",
-          "image": "/images/Team/20.jpg",
-          "cover": "/images/Team/20.jpg",
-          "content": "・東京著衣品牌執行長"
-        // },	
         {
           "name": "Dennis Lee",
           "title": "團隊成員",
@@ -596,13 +559,6 @@
           "cover": "/images/Team/14.jpg",
           "content": "・晨間廚房餐飲有限公司共同創辦人暨總監\n・屏東縣大店長聯盟創會會長\n・台灣連鎖加盟促進協會第九屆常務理事\n・台灣連鎖加盟促進協會高雄分會第四屆會長"
         },
-        // {
-          // "name": "David Pan",
-          // "title": "MetaLion",
-          // "image": "/images/Team/15.jpg",
-          // "cover": "/images/Team/15.jpg",
-          // "content": "・ACE 王牌數位資產交易所創辦人\n・ABA 亞洲區塊鏈加速器創辦人\n・Lead Capital 新加坡領先資本創辦人"
-        // },
         {
           "name": "Toriii Studio",
           "title": "MetaLion",
@@ -638,13 +594,6 @@
           "cover": "/images/Team/22.jpg",
           "content": "「13座金鐘獎 紀錄保持人」\n・台灣大眾票選最具專業形象以及最受歡迎的新聞主播。\n・曾任中視晩間新聞主播達22年\n・「沈春華Life Show」「從台灣看全球」「沈春華新聞會客室」節目主持人\n・現任LiveABC互動英語交學集團 董事\n・現任IC之音「春風華語 聚焦台灣」主持人\n・現任Podcast 「沈春華我們脫殼Women’s Talk 」主持人"
         },
-        // {
-          "name": "Henry Yen",
-          "title": "MetaLion",
-          "image": "/images/Team/23.jpg",
-          "cover": "/images/Team/23.jpg",
-          "content": "・Potato Media CEO/CTO"
-        // },
         {
           "name": "Henry Sun",
           "title": "MetaLion",
@@ -778,13 +727,6 @@
           "cover": "/images/Team/46.jpg",
           "content": "・Co-founder of Demiverse Studio\n・Co-founder of Taiwan DAO"
         },
-        // {
-          "name": "James Cheng",
-          "title": "MetaLion",
-          "image": "/images/Team/47.jpg",
-          "cover": "/images/Team/47.jpg",
-          "content": "・洰苙投資股份有限公司 創辦人\n・亞洲區塊鏈加速器 總監\n・ACE Crypto Assets Management Group 投資人關係長\n・年代集團邱復生 董事長特別助理"
-        // },
         {
           "name": "Berry Liao",
           "title": "MetaLion",
@@ -852,8 +794,6 @@
         "hint": "Demo：Integrate enterprise and product NFT"
       },
       "social": [
-        // { "icon": "Potatomedia", "link": "https://www.potatomedia.co/user/31b7801a-a463-46b6-8ebd-1df0d398f9c1/status" },
-        // { "icon": "Chaebol", "link": "https://www.chaebol.art/welcome" },
         { "icon": "Opensea", "link": "https://opensea.io/collection/lion-dao" },
         { "icon": "Discord", "link": "https://discord.gg/cy3HNnSt8b" },
         { "icon": "Twitter", "link": "https://twitter.com/liondaonft" },
