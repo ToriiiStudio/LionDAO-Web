@@ -56,43 +56,7 @@
           "content": "HERE WE ARE, LIONDAO, A WHOLE NEW WORLD."
         }
       ],
-      "team": [
-        {
-          "name": "Hans Chen",
-          "title": "Founder",
-          "image": "/images/Team/2.jpg",
-          "cover": "/images/Team/2.jpg",
-          "content": "・CEO of Guolea\n・Chief Consultant for interdisciplinary brand counseling and strategic application of blockchain\n・Known as “Brand Doctor” within the industry"
-        },
-        {
-          "name": "Lionel Chiang",
-          "title": "Founder",
-          "image": "/images/Team/3.jpg",
-          "cover": "/images/Team/3.jpg",
-          "content": "・Chief Consultant of Strategic Development in the Blockchain Industry\n・Industrialist managing businesses across industries"
-        },
-        {
-          "name": "Kenneth Kao",
-          "title": "Founder",
-          "image": "/images/Team/4.jpg",
-          "cover": "/images/Team/4.jpg",
-          "content": "・Founder of SSTrade\n・Founder of Idealism Capital\n・NFT Evangelist"
-        },
-        {
-          "name": "Frank Fu",
-          "title": "Team",
-          "image": "/images/Team/17.jpg",
-          "cover": "/images/Team/17.jpg",
-          "content": "・Community relationship management"
-        },
-        {
-          "name": "Gene Huang",
-          "title": "MetaLion",
-          "image": "/images/Team/46.jpg",
-          "cover": "/images/Team/46.jpg",
-          "content": "・Co-founder of Demiverse Studio\n・Co-founder of Taiwan DAO"
-        }
-      ],
+      "team": [],
       "banner": "\"Allow the limitless imagination of the metaverse to become the future!\nNew Future, new MetaStar.\"",
       "mint": {
         "title": "mint liondao nft",
@@ -173,43 +137,7 @@
           "content": "我們來了，LIONDAO，這是個全新的世界！"
         }
       ],
-      "team": [
-        {
-          "name": "Hans Chen",
-          "title": "創辦人",
-          "image": "/images/Team/2.jpg",
-          "cover": "/images/Team/2.jpg",
-          "content": "・果俐文創 CEO\n・跨域品牌輔導與區塊鏈策略應用首席顧問\n・業界有「品牌醫生」之稱"
-        },
-        {
-          "name": "Lionel Chiang",
-          "title": "創辦人",
-          "image": "/images/Team/3.jpg",
-          "cover": "/images/Team/3.jpg",
-          "content": "・區塊鏈產業策略發展首席顧問\n・跨產業企業經營實業家"
-        },
-        {
-          "name": "Kenneth Kao",
-          "title": "創辦人",
-          "image": "/images/Team/4.jpg",
-          "cover": "/images/Team/4.jpg",
-          "content": "・時事交易創辦人\n・唯心資本創辦人\n・NFT 佈道者"
-        },
-        {
-          "name": "Frank Fu",
-          "title": "團隊成員",
-          "image": "/images/Team/17.jpg",
-          "cover": "/images/Team/17.jpg",
-          "content": "・社群關係管理"
-        },
-        {
-          "name": "Gene Huang",
-          "title": "MetaLion",
-          "image": "/images/Team/46.jpg",
-          "cover": "/images/Team/46.jpg",
-          "content": "・Co-founder of Demiverse Studio\n・Co-founder of Taiwan DAO"
-        }
-      ],
+      "team": [],
       "banner": "\"讓元宇宙的無限想像，成為新未來！\"",
       "mint": {
         "title": "mint liondao nft",
