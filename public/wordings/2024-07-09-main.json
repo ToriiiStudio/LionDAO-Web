@@ -58,6 +58,13 @@
       ],
       "team": [
         {
+          "name": "Boss Lee",
+          "title": "Founder",
+          "image": "/images/Team/1.jpg",
+          "cover": "/images/Team/1.jpg",
+          "content": "・Enterprise PR crisis management and marketing strategy\n・Chief Consultant\n・Senior mediaperson in Taiwan\n・Strategic Investment Consultant, Media and Broadcasting Industry Transformation"
+        },
+        {
           "name": "Hans Chen",
           "title": "Founder",
           "image": "/images/Team/2.jpg",
@@ -191,6 +198,13 @@
           "content": "・Dudoo Founder & CEO"
         },
         {
+          "name": "JianHong Guo",
+          "title": "MetaLion",
+          "image": "/images/Team/28.jpg",
+          "cover": "/images/Team/28.jpg",
+          "content": "Known as the “Emperor of TV” in Taiwan’s broadcasting circles\n・Transworld Television Production Company Ltd. Founder and Chairman"
+        },
+        {
           "name": "Unme Xie",
           "title": "MetaLion",
           "image": "/images/Team/30.jpg",
@@ -259,6 +273,13 @@
           "image": "/images/Team/39.jpg",
           "cover": "/images/Team/39.jpg",
           "content": "・General Manager of Shanton Sports"
+        },
+        {
+          "name": "Jane Lin",
+          "title": "MetaLion",
+          "image": "/images/Team/40.jpg",
+          "cover": "/images/Team/40.jpg",
+          "content": "・CEO of Create Intelligent Co., Inc"
         },
         {
           "name": "Tiffany Lin",
@@ -350,6 +371,13 @@
           "image": "/images/Team/54.jpg",
           "cover": "/images/Team/54.jpg",
           "content": "・Janfusun Resort Hotel, Chairman"
+        },
+        {
+          "name": "Walter Chang",
+          "title": "MetaLion",
+          "image": "/images/Team/56.jpg",
+          "cover": "/images/Team/56.jpg",
+          "content": "・Media Group New Media Supervisor \n・Communications Group Digital Marketing Director \n・Golden Bell Awards  New media Person in charge \n・Chinese Culture University College of Journalism & Communication Professor"
         }
       ],
       "banner": "\"Allow the limitless imagination of the metaverse to become the future!\nNew Future, new MetaStar.\"",
@@ -433,6 +461,13 @@
         }
       ],
       "team": [
+        {
+          "name": "Boss Lee",
+          "title": "創辦人",
+          "image": "/images/Team/1.jpg",
+          "cover": "/images/Team/1.jpg",
+          "content": "・企業公關危機處理與營銷戰略\n・首席顧問\n・台灣資深媒體人\n・媒體與影視產業轉型 策略投資顧問"
+        },
         {
           "name": "Hans Chen",
           "title": "創辦人",
@@ -567,6 +602,13 @@
           "content": "・肚肚創辦人&執行長"
         },
         {
+          "name": "JianHong Guo",
+          "title": "MetaLion",
+          "image": "/images/Team/28.jpg",
+          "cover": "/images/Team/28.jpg",
+          "content": "台灣傳播界「電視皇帝」\n・映畫傳播事業股份有限公司 創辦人兼董事長"
+        },
+        {
           "name": "Unme Xie",
           "title": "MetaLion",
           "image": "/images/Team/30.jpg",
@@ -635,6 +677,13 @@
           "image": "/images/Team/39.jpg",
           "cover": "/images/Team/39.jpg",
           "content": "・享通運動用品 總經理"
+        },
+        {
+          "name": "Jane Lin",
+          "title": "MetaLion",
+          "image": "/images/Team/40.jpg",
+          "cover": "/images/Team/40.jpg",
+          "content": "・創造智能科技股份有限公司 執行長"
         },
         {
           "name": "Tiffany Lin",
@@ -726,6 +775,13 @@
           "image": "/images/Team/54.jpg",
           "cover": "/images/Team/54.jpg",
           "content": "・劍湖山渡假大飯店董事長"
+        },
+        {
+          "name": "Walter Chang",
+          "title": "MetaLion",
+          "image": "/images/Team/56.jpg",
+          "cover": "/images/Team/56.jpg",
+          "content": "・知名媒體集團（三立媒體集團、旺旺中時媒體集團、城邦媒體集團） 新媒體資深總監 \n・戰國策傳播集團 資深數位行銷總監\n・金鐘獎 新媒體統籌\n・中國文化大學廣告學系 教授"
         }
       ],
       "banner": "\"讓元宇宙的無限想像，成為新未來！\"",
